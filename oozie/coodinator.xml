@@ -1,0 +1,14 @@
+<coodinator-app
+    name="${coodinatorName}"
+    frequency="${coord:days(1)}"
+    start="${start_date}"
+    end="${end_date}"
+    timezone="${timezone}">
+
+    <action>
+        <workflow>
+            <app-path>"${app_path}</app-path>
+        </workflow>
+    </action>
+</coodinator-app>
+

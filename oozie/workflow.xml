@@ -1,0 +1,16 @@
+<workflow-app name='test workfow' xmlns="uri:oozie:workflow:1.0">
+    <start to='sh_test'/>
+    <action name='sh_test'>
+        <shell xmlns="uri:oozie:shell-action:1.0">
+            <name-node>${nameNode}</name-node>
+            <exec>test.sh</exec>
+            <file>${app_path}/test/test.sh</file>
+        </shell>
+        <ok to="End"/>
+        <error to="Kill"/>
+    </action>
+    <kill name='Kill'>
+        <message>Something went wrong: ${wf:errorCode('wordcount')}</message>
+    </kill>
+    <end name='End'/>
+</workflow-app>
