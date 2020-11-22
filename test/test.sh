@@ -1,12 +1,12 @@
 #!/bin/bash
 
-mkdir datagang/lab/
-mkdir datagang/lab/data/
+hdfs dfs -mkdir lab
+hdfs dfs -mkdir lab/data/
 
-mkdir datagang/project/
-mkdir datagang/project/data/
+hdfs dfs -mkdir project
+hdfs dfs -mkdir project/data/
 
-mkdir datagang/project/automation_project
-hdfs dfs -put datagang/infra_automation/* datagang/project/automation_project/
+hdfs dfs -mkdir project/automation_project
+hdfs dfs -put datagang/infra_automation/* project/automation_project/
 
 oozie job -oozie http://localhost:11000/oozie -config job.properties -submit
