@@ -3,7 +3,8 @@
     frequency="${coord:days(1)}"
     start="${start_date}"
     end="${end_date}"
-    timezone="${timezone}">
+    timezone="${timezone}"
+    xmlns="uri:oozie:coordinator:0.3">
 
     <action>
         <workflow>
