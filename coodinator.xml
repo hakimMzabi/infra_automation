@@ -7,7 +7,7 @@
 
     <action>
         <workflow>
-            <app-path>"${app_path}</app-path>
+            <app-path>"${app_path}"</app-path>
         </workflow>
     </action>
 </coodinator-app>
