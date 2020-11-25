@@ -4,10 +4,14 @@
         <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
-            <property>
-                <name>oozie.launcher.mapreduce.map.memory.mb</name>
-                <value>1024</value>
-            </property>
+            <configuration>
+                <property>
+                    <name>oozie.launcher.mapreduce.job.queue.name</name>
+                    <value>${launcher_queue}</value>
+                    <name>oozie.launcher.mapreduce.map.memory.mb</name>
+                    <value>1024</value>
+                </property>
+            </configuration>
             <exec>test.sh</exec>
             <file>${app_path}/test/test.sh</file>
         </shell>
