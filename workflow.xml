@@ -1,9 +1,10 @@
-<workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.5">
+<workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.4">
     <start to='sh_test'/>
     <action name='sh_test'>
         <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
+             <resource-manager>${resourceManager}</resource-manager>
             <configuration>
                 <property>
                     <name>oozie.launcher.mapreduce.job.queue.name</name>
