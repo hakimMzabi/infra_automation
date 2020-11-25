@@ -2,6 +2,7 @@
     <start to='sh_test'/>
     <action name='sh_test'>
         <shell xmlns="uri:oozie:shell-action:0.1">
+            <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
             <exec>test.sh</exec>
             <file>${app_path}/test/test.sh</file>
