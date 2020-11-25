@@ -10,17 +10,12 @@
                     <value>${launcher_queue}</value>
                 </property>
                 <property>
-                    <name>oozie.launcher.mapreduce.map.memory.mb</name>
-                    <value>1024</value>
-                </property>
-                <property>
                     <name>oozie.launcher.mapreduce.map.java.opts</name>
                     <value>-Xmx777m</value>
                 </property>
-
                 <property>
                     <name>oozie.launcher.yarn.app.mapreduce.am.resource.mb</name>
-                    <value>2048</value>
+                    <value>512</value>
                 </property>
                 <property>
                     <name>oozie.launcher.mapreduce.map.java.opts</name>
