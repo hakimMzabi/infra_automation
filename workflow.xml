@@ -19,7 +19,7 @@
                 </property>
                 <property>
                     <name>oozie.launcher.mapreduce.map.java.opts</name>
-                    <value>-Xmx1111m</value>
+                    <value>-XX:MAXPermSize=1g</value>
                 </property>
             </configuration>
             <exec>test.sh</exec>
