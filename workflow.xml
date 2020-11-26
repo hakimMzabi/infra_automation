@@ -18,7 +18,7 @@
         <error to="Kill"/>
     </action>
     <kill name='Kill'>
-        <message>Something went wrong: ${wf:errorCode('wordcount')}</message>
+        <message>shell action failed: ${wf:errorCode('wordcount')}</message>
     </kill>
     <end name='End'/>
 </workflow-app>
