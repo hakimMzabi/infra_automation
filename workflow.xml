@@ -1,7 +1,7 @@
 <workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.4">
-    <start to='sh_test'/>
-    <action name='sh_test'>
-        <shell xmlns="uri:oozie:shell-action:0.1">
+    <start to='spark_test'/>
+    <action name='spark_test'>
+       <!-- <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
              <resource-manager>${resourceManager}</resource-manager>
@@ -13,7 +13,24 @@
             </configuration>
             <exec>test.sh</exec>
             <file>${app_path}/test/test.sh</file>
-        </shell>
+        </shell>!-->
+        <spark xmlns="uri:oozie:spark-action:0.1">
+            <job-tracker>${jobTracker}</job-tracker>
+            <name-node>${nameNode}</name-node>
+             <resource-manager>${resourceManager}</resource-manager>
+            <configuration>
+                <property>
+                    <name>oozie.launcher.mapreduce.job.queue.name</name>
+                    <value>${launcher_queue}</value>
+                </property>
+            </configuration>
+            <master>${master}</master>
+            <mode>${mode}</mode>
+            <name>test</name>
+            <jar>${app-path}/jobs/test_udf.py</jar>
+            <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --driver-memory=1g --executor-memory=1g --num-executors=2</spark-opts>
+        </spark>
+
         <ok to="End"/>
         <error to="Kill"/>
     </action>
