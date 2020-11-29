@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hdfs dfs -mkdir /user/datagang/test_oozie
+hdfs dfs -ls /user/datagang/
