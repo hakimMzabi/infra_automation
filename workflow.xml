@@ -1,4 +1,4 @@
-<workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.3">
+<workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.5">
     <start to='spark_test'/>
     <action name='spark_test'>
         <spark xmlns="uri:oozie:spark-action:0.1">
