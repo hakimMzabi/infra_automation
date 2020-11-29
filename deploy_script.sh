@@ -1,5 +1,5 @@
 #!/bin/bash
-hdfs dfs -rm datagang/project/*
+hdfs dfs -rm datagang/project/
 hdfs dfs -mkdir datagang/project
 hdfs dfs -put /datagang/infra_automation datagang/project/
 
