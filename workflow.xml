@@ -7,7 +7,7 @@
             <configuration>
                 <property>
                     <name>oozie.launcher.mapreduce.job.queue.name</name>
-                    <value>${launcher_queue}</value>
+                    <value>${queue_name}</value>
                 </property>
                 <property>
                     <name>mapreduce.map.memory.mb</name>
