@@ -4,7 +4,6 @@
         <spark xmlns="uri:oozie:spark-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
-             <resource-manager>${resourceManager}</resource-manager>
             <configuration>
                 <property>
                     <name>oozie.launcher.mapreduce.job.queue.name</name>
