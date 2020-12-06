@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hdfs dfs -ls /user/datagang/
+hdfs dfs -mdkdir /user/datagang/lab

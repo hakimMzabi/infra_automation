@@ -17,8 +17,8 @@
             <master>${master}</master>
             <mode>${mode}</mode>
             <name>test</name>
-            <jar>${app-path}/jobs/test_udf.py</jar>
-            <spark-opts> --master yarn --queue=${queueName} --conf spark.scheduler.mode=FAIR --driver-memory=1g --executor-memory=1g --num-executors=2</spark-opts>
+            <jar>${app_path}/jobs/test_udf.py</jar>
+            <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --driver-memory=1g --executor-memory=1g --num-executors=2</spark-opts>
         </spark>
       <!-- <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
