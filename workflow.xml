@@ -1,7 +1,7 @@
 <workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.5">
     <start to='spark_test'/>
     <action name='spark_test'>
-        <spark xmlns="uri:oozie:spark-action:0.1">
+         <!--<spark xmlns="uri:oozie:spark-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
             <configuration>
@@ -18,9 +18,9 @@
             <mode>${mode}</mode>
             <name>test</name>
             <jar>${app_path}/jobs/test_udf.py</jar>
-            <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --driver-memory=1g --executor-memory=1g --num-executors=2</spark-opts>
-        </spark>
-      <!-- <shell xmlns="uri:oozie:shell-action:0.1">
+            <spark-opts> -/-master yarn-cluster -/-queue=${queueName} -/-conf spark.scheduler.mode=FAIR -/-driver-memory=1g -/-executor-memory=1g -/-num-executors=2</spark-opts>
+        </spark>!-->
+      <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
             <configuration>
@@ -39,7 +39,7 @@
             </configuration>
             <exec>test.sh</exec>
             <file>${app_path}/test/test.sh</file>
-        </shell>!-->
+        </shell>
 
         <ok to="End"/>
         <error to="Kill"/>
