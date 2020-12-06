@@ -36,6 +36,10 @@
                     <name>mapreduce.map.memory.mb</name>
                     <value>1024</value>
                 </property>
+                <property>
+                    <name>ipc.maximum.data.length</name>
+                    <value>134217728</value>
+                </property>
             </configuration>
             <exec>test.sh</exec>
             <file>${app_path}/test/test.sh</file>
