@@ -5,11 +5,11 @@
     end="${end_date}"
     timezone="${timezone}"
     xmlns="uri:oozie:coordinator:0.3">
-
-    <action>
-        <workflow>
-            <app-path>${app_path}</app-path>
-        </workflow>
-    </action>
+<action>
+    <workflow>
+        <app-path>${app_path}</app-path>
+    </workflow>
+</action>
 </coodinator-app>
+
 
