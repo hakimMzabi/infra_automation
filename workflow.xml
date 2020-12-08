@@ -22,7 +22,7 @@
             <mode>${mode}</mode>
             <name>test</name>
             <jar>${app_path}/jobs/test_udf.py</jar>
-            <spark-opts> --master yarn --conf spark.scheduler.mode=FAIR --jars ${jar_path}/avro-tools-1.9.2.jar --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
+            <spark-opts> --master yarn --conf spark.scheduler.mode=FAIR --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
         </spark>
         <ok to="End"/>
         <error to="Kill"/>
