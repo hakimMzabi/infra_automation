@@ -1,4 +1,5 @@
 #!/bin/bash
+
 hdfs dfs -rm -r -skipTrash /user/datagang/project/infra_automation/*
 hdfs dfs -put /home/datagang/infra_automation /user/datagang/project/
 
