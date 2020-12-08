@@ -1,14 +1,8 @@
-from pyspark import SQLContext, SparkContext, SparkConf
-from pyspark.sql import *
-from pyspark.sql.functions import udf
-
-import pyspark.sql.functions as F
-from pyspark.sql.functions import *
-
-conf = SparkConf().setAppName('test')
-sc = SparkContext.getOrCreate(conf)
-sc.setLogLevel('ERROR')
-spark = SQLContext(sc)
+from pyspark.sql import SparkSession
+spark = SparkSession.builder \
+                    .master('local[1]') \
+                    .appName('SparkByExamples.com') \
+                    .getOrCreate()
 
 print("this is a test !")
 # columns = ["x", "y"]
