@@ -20,10 +20,10 @@
             <jar>${app_path}/jobs/test_udf.py</jar>
             <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --jars ${jar_path}/avro-tools-1.9.2.jar --driver-memory=2g --executor-memory=2g -/-num-executors=2</spark-opts>
         </spark>
-        <ok to="shell_test"/>
+        <ok to="End"/>
         <error to="Kill"/>
     </action>
-     <action name='shell_test'>
+      <!--<action name='shell_test'>
       <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
@@ -51,11 +51,10 @@
 
         <ok to="End"/>
         <error to="Kill"/>
-    </action>
+    </action> !-->
     <kill name='Kill'>
         <message>job failed: ${wf:errorCode('wordcount')}</message>
     </kill>
     <end name='End'/>
 </workflow-app>
 
-  <!-- !-->
