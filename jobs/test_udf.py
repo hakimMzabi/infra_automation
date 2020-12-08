@@ -13,10 +13,11 @@ conf = pyspark.SparkConf()
 sc = pyspark.SparkContext.getOrCreate(conf)
 spark = SQLContext(sc)
 
-columns = ["x", "y"]
-data = [(5, 3), (8, 5), (5, 7), (3, 6)]
-df = spark.createDataFrame(data).toDF(*columns)
-df.show()
+print("this is a test !")
+#columns = ["x", "y"]
+#data = [(5, 3), (8, 5), (5, 7), (3, 6)]
+#df = spark.createDataFrame(data).toDF(*columns)
+#df.show()
 
 
 #def distance(x, y):
