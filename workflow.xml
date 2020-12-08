@@ -18,7 +18,7 @@
             <mode>${mode}</mode>
             <name>test</name>
             <jar>${app_path}/jobs/test_udf.py</jar>
-            <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --driver-memory=2g --executor-memory=2g -/-num-executors=2</spark-opts>
+            <spark-opts> --master yarn-cluster --queue=${queueName} --conf spark.scheduler.mode=FAIR --jars ${jar_path}/avro-tools-1.9.2.jar --driver-memory=2g --executor-memory=2g -/-num-executors=2</spark-opts>
         </spark>
         <ok to="shell_test"/>
         <error to="Kill"/>
@@ -42,7 +42,11 @@
                 </property>
             </configuration>
             <exec>test.sh</exec>
+            <argument>${data_path}</argument>
+            <argument>${avrotools_filename}</argument>
+            <argument>${schema_path}</argument>
             <file>${app_path}/test/test.sh</file>
+            <file>${jar_path}/${avrotools_filename}</file>
         </shell>
 
         <ok to="End"/>
