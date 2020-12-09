@@ -1,9 +1,9 @@
-from pyspark.sql import SparkSession
-spark = SparkSession.builder \
-                    .master('local[1]') \
-                    .appName('SparkByExamples.com') \
-                    .getOrCreate()
+from pyspark import SQLContext, SparkContext, SparkConf
 
+conf = SparkConf().setAppName('test')
+sc = SparkContext.getOrCreate(conf)
+sc.setLogLevel('ERROR')
+spark = SQLContext(sc)
 print("this is a test !")
 # columns = ["x", "y"]
 # data = [(5, 3), (8, 5), (5, 7), (3, 6)]
