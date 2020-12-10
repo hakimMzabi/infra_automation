@@ -1,3 +1,5 @@
+import json
+
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -37,15 +39,36 @@ def getPetitBiscuit(sp):
         print(idx, track['name'])
 
 
-def getArtiste():
-    url = "http://httpbin.org/post"
-    payload = dict(key1='value1', key2='value2')
-    res = requests.post(url, data=payload)
+def getTrackSpotify(sp):
+    url = "37i9dQZEVXbIPWwFssbupI"
+    result = sp.playlist(url)
+    s1 = json.dumps(result)
+    data = json.loads(s1)
+    df = pd.DataFrame.from_dict(data["tracks"])
+    #récupération items
+    json_dict = json.loads(df["items"].to_json(orient='split'))
+    del json_dict['index']
+    s1_items = json.dumps(json_dict)
+    data_items = json.loads(s1_items)
+    df_items = pd.DataFrame.from_dict(data_items["data"])
+    #récupération track
+    json_dict = json.loads(df_items["track"].to_json(orient='split'))
+    del json_dict['index']
+    s1_track = json.dumps(json_dict)
+    data_track = json.loads(s1_track)
 
-    print(res.text)
+    df_artist = pd.DataFrame(columns=['name','album','popularity'])
+    for i in range(len(data_track["data"])):
+        for j in data_track["data"][i]["artists"]:
+            df_artist = df_artist.append({'name':j['name'], 'album':data_track["data"][i]["name"],'popularity':data_track["data"][i]["popularity"]},ignore_index=True)
+    print(df_artist)
+
+
 
 
 if __name__ == "__main__":
     sp = getConnection_spotify_api()
-    #  getPetitBiscuit(sp)
-    getNekfeu(sp)
+  #  getPetitBiscuit(sp)
+  #  getNekfeu(sp)
+    getTrackSpotify(sp)
+
