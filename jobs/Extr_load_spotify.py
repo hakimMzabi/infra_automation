@@ -14,8 +14,9 @@ spotify_data_lake = "/user/datagang/lake/spotify"
 
 
 def main():
-    from spotipy.oauth2 import SpotifyClientCredentials
     import spotipy
+    from spotipy.oauth2 import SpotifyClientCredentials
+
     from pandas.io import json
     import pandas as pd
     import time
