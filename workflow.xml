@@ -21,6 +21,8 @@
                     <name>mapreduce.map.memory.mb</name>
                     <value>1024</value>
                 </property>
+                <property>oozie.launcher.mapreduce.amp.env</property>
+                <value>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</value>
             </configuration>
             <master>${master}</master>
             <mode>${mode}</mode>
