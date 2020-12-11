@@ -93,7 +93,7 @@
             <argument>${data_path}</argument>
             <argument>${avrotools_filename}</argument>
             <argument>${schema_path}</argument>
-            <file>${app_path}/test/test.sh</file>
+            <file>${app_path}/get_schema.sh</file>
             <file>${jar_path}/${avrotools_filename}</file>
         </shell>
         <ok to="End"/>
