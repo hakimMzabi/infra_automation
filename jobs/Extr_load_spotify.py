@@ -4,14 +4,13 @@ from pyspark.sql.types import *
 import os
 import sys
 
-
-
 spark = SparkSession.builder \
     .master('local[1]') \
     .appName('SparkByExamples.com') \
     .getOrCreate()
 sc = spark.sparkContext
-spotify_data_lake = "hdfs://d271ee89-3c06-4d40-b9d6-d3c1d65feb57.priv.instances.scw.cloud:8020/user/datagang/lake/spotify"
+
+spotify_data_lake = "/user/datagang/lake/spotify"
 
 
 def main():
@@ -124,6 +123,7 @@ def main():
                 dic_df[feature].extend(spotify_albums[album][feature])
         df_dic = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in dic_df.items()]))
         df_final = df_final.append(df_dic)
+
         mySchema = StructType([StructField("artist", StringType(), True) \
                           , StructField("album", StringType(), True) \
                           , StructField("track_number", StringType(), True) \
@@ -141,7 +141,7 @@ def main():
                           , StructField("valence", StringType(), True) \
                           , StructField("popularity", StringType(), True)])
 
-    #print(df_final)
+    print(df_final)
     #df_final.to_csv("data_sp.csv")
     sdf = spark.createDataFrame(df_final, mySchema)
     sdf.write.format("com.databricks.spark.avro").save(spotify_data_lake)
