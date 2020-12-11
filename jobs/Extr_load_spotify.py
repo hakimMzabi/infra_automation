@@ -3,6 +3,12 @@ from pyspark.sql import SQLContext
 from pyspark.sql.types import *
 import os
 import sys
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+from pandas.io import json
+import pandas as pd
+import time
+import numpy as np
 
 spark = SparkSession.builder \
     .master('local[1]') \
@@ -10,18 +16,10 @@ spark = SparkSession.builder \
     .getOrCreate()
 sc = spark.sparkContext
 
-spotify_data_lake = "/user/datagang/lake/spotify"
+spotify_data_lake = "/user/datagang/lake/"
 
 
-def main():
-    import spotipy
-    from spotipy.oauth2 import SpotifyClientCredentials
-
-    from pandas.io import json
-    import pandas as pd
-    import time
-    import numpy as np
-
+def get_data():
     client_id = 'd5e7ac18c19f483c9c6fc7c6d848f004'
     client_secret = 'b3b0efc54fcd4cce82091ceb8eb05386'
 
@@ -125,26 +123,30 @@ def main():
         df_dic = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in dic_df.items()]))
         df_final = df_final.append(df_dic)
 
-        mySchema = StructType([StructField("artist", StringType(), True) \
-                          , StructField("album", StringType(), True) \
-                          , StructField("track_number", StringType(), True) \
-                          , StructField("id", StringType(), True) \
-                          , StructField("name", StringType(), True) \
-                          , StructField("uri", StringType(), True) \
-                          , StructField("acousticness", StringType(), True) \
-                          , StructField("danceability", StringType(), True) \
-                          , StructField("energy", StringType(), True) \
-                          , StructField("instrumentalness", StringType(), True) \
-                          , StructField("liveness", StringType(), True) \
-                          , StructField("loudness", StringType(), True) \
-                          , StructField("speechiness", StringType(), True) \
-                          , StructField("tempo", StringType(), True) \
-                          , StructField("valence", StringType(), True) \
-                          , StructField("popularity", StringType(), True)])
+        return df_final
 
-    print(df_final)
-    #df_final.to_csv("data_sp.csv")
-    sdf = spark.createDataFrame(df_final, mySchema)
+
+def main():
+    df_data = get_data()
+    mySchema = StructType([StructField("artist", StringType(), True) \
+                              , StructField("album", StringType(), True) \
+                              , StructField("track_number", StringType(), True) \
+                              , StructField("id", StringType(), True) \
+                              , StructField("name", StringType(), True) \
+                              , StructField("uri", StringType(), True) \
+                              , StructField("acousticness", StringType(), True) \
+                              , StructField("danceability", StringType(), True) \
+                              , StructField("energy", StringType(), True) \
+                              , StructField("instrumentalness", StringType(), True) \
+                              , StructField("liveness", StringType(), True) \
+                              , StructField("loudness", StringType(), True) \
+                              , StructField("speechiness", StringType(), True) \
+                              , StructField("tempo", StringType(), True) \
+                              , StructField("valence", StringType(), True) \
+                              , StructField("popularity", StringType(), True)])
+
+    # df_final.to_csv("data_sp.csv")
+    sdf = spark.createDataFrame(df_data, mySchema)
     sdf.write.format("com.databricks.spark.avro").save(spotify_data_lake)
 
 

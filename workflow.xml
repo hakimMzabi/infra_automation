@@ -1,6 +1,6 @@
 <workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.5">
-    <start to='shell_test'/>
-   <!-- <action name='spark_test'>
+    <start to='extratct_data'/>
+   <action name='extratct_data'>
          <spark xmlns="uri:oozie:spark-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
@@ -32,10 +32,46 @@
             <jar>${app_path}/jobs/Extr_load_spotify.py</jar>
             <spark-opts> --conf spark.pyspark.python=/home/datagang/.conda/envs/datagang/bin/python --master yarn --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
         </spark>
-        <ok to="End"/>
+        <ok to="transf_load"/>
         <error to="Kill"/>
-    </action>!-->
-      <action name='shell_test'>
+    </action>
+    <action name='transf_load'>
+         <spark xmlns="uri:oozie:spark-action:0.1">
+            <job-tracker>${jobTracker}</job-tracker>
+            <name-node>${nameNode}</name-node>
+            <configuration>
+                <property>
+                    <name>mapreduce.framework.name</name>
+                    <value>yarn</value>
+                </property>
+                <property>
+                    <name>oozie.launcher.mapreduce.job.queue.name</name>
+                    <value>${queue_name}</value>
+                </property>
+                 <property>
+                    <name>oozie.launcher.mapreduce.map.env</name>
+                    <value>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</value>
+                </property>
+                <property>
+                    <name>oozie.use.system.libpath</name>
+                    <value>true</value>
+                </property>
+                <property>
+                    <name>mapreduce.map.memory.mb</name>
+                    <value>1024</value>
+                </property>
+            </configuration>
+            <master>${master}</master>
+            <mode>${mode}</mode>
+            <name>test</name>
+            <jar>${app_path}/jobs/etl_spotify.py</jar>
+            <spark-opts> --conf spark.pyspark.python=/home/datagang/.conda/envs/datagang/bin/python --master yarn --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
+        </spark>
+        <ok to="Hive_schema"/>
+        <error to="Kill"/>
+      </action>
+
+      <action name='Hive_schema'>
       <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
@@ -53,9 +89,13 @@
                     <value>1024</value>
                 </property>
             </configuration>
-            <exec>deploy_job.sh</exec>
+            <exec>test.sh</exec>
+            <argument>${data_path}</argument>
+            <argument>${avrotools_filename}</argument>
+            <argument>${schema_path}</argument>
+            <file>${app_path}/test/test.sh</file>
+            <file>${jar_path}/${avrotools_filename}</file>
         </shell>
-
         <ok to="End"/>
         <error to="Kill"/>
     </action>

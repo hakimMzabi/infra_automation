@@ -9,15 +9,11 @@ spark = SparkSession.builder \
     .getOrCreate()
 sc = spark.sparkContext
 
-data_path_lake = "d271ee89-3c06-4d40-b9d6-d3c1d65feb57.priv.instances.scw.cloud:8020/user/datagang/lab/spotify"
-df = spark.read.option("header", True).csv("./data_sp.csv")
+data_path_lake = "/user/datagang/lab/*"
+data_path_prod = "/user/datagang/data/"
 
-#spark.read.format("com.databricks.spark.avro").load(data_path_lake)
+df = spark.read.format("com.databricks.spark.avro").load(data_path_lake)
 df_selection = df.select("artist", "album", "track_number", "name", "danceability", "energy", "valence", "popularity")
 
 df_groubed = df_selection.groupBy("artist").agg(F.max("popularity"))
-df_groubed.write.format("com.databricks.spark.avro").save(data_path_lake)
-#df_groubed.show()
-"""
-save
-"""
+df_groubed.write.format("com.databricks.spark.avro").save(data_path_prod)
