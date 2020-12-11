@@ -25,8 +25,8 @@
                     <name>mapreduce.map.memory.mb</name>
                     <value>1024</value>
                 </property>
-
             </configuration>
+             <env-var>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</env-var>
             <master>${master}</master>
             <mode>${mode}</mode>
             <name>test</name>
