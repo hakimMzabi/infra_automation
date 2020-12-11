@@ -21,7 +21,8 @@
                     <name>mapreduce.map.memory.mb</name>
                     <value>1024</value>
                 </property>
-                <property>oozie.launcher.mapreduce.amp.env
+                <property>
+                    <name>oozie.launcher.mapreduce.amp.env</name>
                     <value>/root/.conda/envs/iabd1/bin/python</value>
                 </property>
             </configuration>
