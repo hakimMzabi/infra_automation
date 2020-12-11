@@ -13,6 +13,10 @@
                     <name>oozie.launcher.mapreduce.job.queue.name</name>
                     <value>${queue_name}</value>
                 </property>
+                 <property>
+                    <name>oozie.launcher.mapreduce.map.env</name>
+                    <value>/root/.conda/envs/iabd1/bin/python</value>
+                </property>
                 <property>
                     <name>oozie.use.system.libpath</name>
                     <value>true</value>
@@ -21,10 +25,7 @@
                     <name>mapreduce.map.memory.mb</name>
                     <value>1024</value>
                 </property>
-                <property>
-                    <name>oozie.launcher.mapreduce.map.env</name>
-                    <value>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</value>
-                </property>
+
             </configuration>
             <master>${master}</master>
             <mode>${mode}</mode>
