@@ -23,7 +23,7 @@
                 </property>
                 <property>
                     <name>oozie.launcher.mapreduce.amp.env</name>
-                    <value>/root/.conda/envs/iabd1/bin/python</value>
+                    <value>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</value>
                 </property>
             </configuration>
             <master>${master}</master>
