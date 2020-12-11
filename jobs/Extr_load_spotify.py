@@ -138,8 +138,8 @@ mySchema = StructType([StructField("artist", StringType(), True) \
                           , StructField("valence", StringType(), True) \
                           , StructField("popularity", StringType(), True)])
 
-print(df_final)
-df_final.to_csv("data_sp.csv")
+#print(df_final)
+#df_final.to_csv("data_sp.csv")
 sdf = spark.createDataFrame(df_final, mySchema)
 sdf.write.format("com.databricks.spark.avro").save(spotify_data_lake)
 
