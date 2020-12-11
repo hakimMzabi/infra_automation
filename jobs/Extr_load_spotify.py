@@ -146,3 +146,5 @@ def main():
     sdf = spark.createDataFrame(df_final, mySchema)
     sdf.write.format("com.databricks.spark.avro").save(spotify_data_lake)
 
+
+main()
