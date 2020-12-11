@@ -1,0 +1,431 @@
+,artist,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Petit Biscuit,Parachute,1.0,2XZn85D188f2bGdV3zmmrF,Parachute,spotify:track:2XZn85D188f2bGdV3zmmrF,0.303,0.532,0.477,0.0,0.13,-10.811,0.0812,81.012,0.515,55.0
+1,Petit Biscuit,Parachute,2.0,5D246C2tLKCTeZgcsRfvcA,Burnin,spotify:track:5D246C2tLKCTeZgcsRfvcA,0.044,0.846,0.554,0.000367,0.0797,-8.753,0.0559,113.968,0.784,66.0
+2,Petit Biscuit,Parachute,3.0,6QyXAcERauW27QwlxjDvww,Pick Your Battles,spotify:track:6QyXAcERauW27QwlxjDvww,0.0335,0.693,0.683,0.12,0.169,-9.74,0.0454,123.951,0.193,59.0
+3,Petit Biscuit,Parachute,4.0,0wUGuObNCcyTSk0IkksyqI,Take Cover,spotify:track:0wUGuObNCcyTSk0IkksyqI,0.276,0.637,0.413,0.00403,0.0969,-13.586,0.136,92.947,0.119,50.0
+4,Petit Biscuit,Parachute,5.0,2rDatO6FnEueGcIwD13WeN,Constellation,spotify:track:2rDatO6FnEueGcIwD13WeN,0.143,0.466,0.403,0.00405,0.123,-9.43,0.0371,66.535,0.117,50.0
+5,Petit Biscuit,Parachute,6.0,6fagtLLzqZTaGcYcSa5qeA,Drivin Thru the Night,spotify:track:6fagtLLzqZTaGcYcSa5qeA,0.655,0.546,0.586,0.0222,0.0931,-9.319,0.358,123.963,0.384,53.0
+6,Petit Biscuit,Parachute,7.0,41sHJRyvhs5thAUFVuG8Ui,Gwana,spotify:track:41sHJRyvhs5thAUFVuG8Ui,0.398,0.624,0.414,0.245,0.164,-12.805,0.0735,125.081,0.185,50.0
+7,Petit Biscuit,Parachute,8.0,4aNNFLoRfSOMHeYQXidsXL,I Leave Again,spotify:track:4aNNFLoRfSOMHeYQXidsXL,0.465,0.724,0.476,0.0451,0.0964,-13.832,0.0555,124.006,0.11,64.0
+8,Petit Biscuit,Parachute,9.0,382JSV4u3TvnoVcj1jdPt6,Hang On,spotify:track:382JSV4u3TvnoVcj1jdPt6,0.289,0.54,0.421,6.08e-05,0.0941,-11.89,0.132,118.119,0.0386,50.0
+9,Petit Biscuit,We Were Young (The Playlist),1.0,63U0o6K3G7waMPX9aZuH3p,We Were Young,spotify:track:63U0o6K3G7waMPX9aZuH3p,0.259,0.738,0.54,0.0,0.114,-6.915,0.155,100.064,0.333,53.0
+10,Petit Biscuit,We Were Young (The Playlist),2.0,2fK1bIVZ18vgUKlOxSP5wN,Waterfall,spotify:track:2fK1bIVZ18vgUKlOxSP5wN,0.492,0.682,0.576,0.0399,0.0933,-8.55,0.0883,119.015,0.215,36.0
+11,Petit Biscuit,We Were Young (The Playlist),3.0,1xWH7lhR9YSWRyhKgvARfv,Sunset Lover,spotify:track:1xWH7lhR9YSWRyhKgvARfv,0.729,0.783,0.467,0.809,0.109,-9.474,0.0503,90.838,0.236,39.0
+12,Petit Biscuit,We Were Young (The Playlist),4.0,2WTSRTSIsX2Sa4PBFAlhyb,Problems,spotify:track:2WTSRTSIsX2Sa4PBFAlhyb,0.571,0.802,0.371,3.82e-06,0.108,-9.087,0.131,113.951,0.263,36.0
+13,Petit Biscuit,We Were Young (The Playlist),5.0,6Mcss1vH0wecVqPznrlQH6,Wide Awake,spotify:track:6Mcss1vH0wecVqPznrlQH6,0.129,0.484,0.624,0.0317,0.0927,-8.75,0.178,148.589,0.124,38.0
+14,Petit Biscuit,We Were Young (The Playlist),6.0,7tngpifnKAP6zF28jj5h3X,Oceans,spotify:track:7tngpifnKAP6zF28jj5h3X,0.0859,0.649,0.524,0.0,0.149,-7.351,0.0443,98.147,0.395,35.0
+15,Petit Biscuit,We Were Young (The Playlist),7.0,1VJAmSg6QBnfNjwhe4Q6RX,We Were Young (DROELOE Remix),spotify:track:1VJAmSg6QBnfNjwhe4Q6RX,0.0454,0.771,0.668,0.00629,0.11,-6.393,0.0677,116.01,0.338,41.0
+16,Petit Biscuit,We Were Young (The Playlist),8.0,1X3jPy56S62Bc3p97OJPAH,You,spotify:track:1X3jPy56S62Bc3p97OJPAH,0.949,0.57,0.339,0.924,0.0968,-13.549,0.0645,162.387,0.487,58.0
+17,Petit Biscuit,We Were Young (The Playlist),9.0,67rc7VmaiZg3AoEhih9Osm,Memories,spotify:track:67rc7VmaiZg3AoEhih9Osm,0.644,0.881,0.644,0.409,0.116,-7.134,0.103,110.026,0.536,52.0
+18,Petit Biscuit,We Were Young (The Playlist),10.0,7dF4sXP1ISIharu35gQ86k,Jungle,spotify:track:7dF4sXP1ISIharu35gQ86k,0.302,0.363,0.655,0.0679,0.103,-6.582,0.0769,171.664,0.0581,39.0
+19,Petit Biscuit,We Were Young (The Playlist),11.0,5b62hMB57JUFRqcZsdiebb,Iceland,spotify:track:5b62hMB57JUFRqcZsdiebb,0.332,0.81,0.765,0.0,0.0677,-5.995,0.106,121.985,0.0394,35.0
+20,Petit Biscuit,We Were Young (The Playlist),12.0,5rp2rxduooC2NWfUkaw2FO,Beam,spotify:track:5rp2rxduooC2NWfUkaw2FO,0.223,0.548,0.583,0.00116,0.129,-6.406,0.0565,92.882,0.162,32.0
+21,Petit Biscuit,We Were Young (The Playlist),13.0,2GMNoTLGltJnIeOTgBb2dz,Wake Up,spotify:track:2GMNoTLGltJnIeOTgBb2dz,0.128,0.58,0.571,6.17e-06,0.0789,-6.933,0.0908,91.069,0.358,33.0
+22,Petit Biscuit,We Were Young (The Playlist),14.0,4St0HSmeqbId4bcriS3g0R,Suffer,spotify:track:4St0HSmeqbId4bcriS3g0R,0.0262,0.562,0.606,0.0125,0.166,-6.334,0.0999,97.023,0.292,45.0
+23,Petit Biscuit,We Were Young (The Playlist),15.0,3GQo4esPBdAwcnqGgIMMAS,The End,spotify:track:3GQo4esPBdAwcnqGgIMMAS,0.0372,0.451,0.482,0.00843,0.0798,-9.263,0.252,146.837,0.0976,31.0
+24,Petit Biscuit,Presence,1.0,6I1ijupAkKjFajscMgH95y,Creation Comes Alive,spotify:track:6I1ijupAkKjFajscMgH95y,0.501,0.295,0.68,3.21e-05,0.103,-7.939,0.0546,197.928,0.0378,45.0
+25,Petit Biscuit,Presence,2.0,7wKzj1b8YKPuZELfVDz708,Problems,spotify:track:7wKzj1b8YKPuZELfVDz708,0.571,0.802,0.371,3.82e-06,0.108,-9.087,0.131,113.951,0.263,60.0
+26,Petit Biscuit,Presence,3.0,4dWJPtVSLHQkAFsGHPTGPp,Follow Me,spotify:track:4dWJPtVSLHQkAFsGHPTGPp,0.683,0.338,0.359,0.114,0.142,-10.954,0.0619,80.318,0.0396,49.0
+27,Petit Biscuit,Presence,4.0,7wUlXpbFSTtBQZabNd5i5o,Beam,spotify:track:7wUlXpbFSTtBQZabNd5i5o,0.223,0.548,0.583,0.00116,0.129,-6.406,0.0565,92.882,0.162,51.0
+28,Petit Biscuit,Presence,5.0,1fQz2lBHx2iLaEGCxAKPmj,Break Up,spotify:track:1fQz2lBHx2iLaEGCxAKPmj,0.174,0.514,0.389,0.838,0.0803,-10.087,0.268,180.298,0.0371,45.0
+29,Petit Biscuit,Presence,6.0,6Fr50AXBWr8ki9EluTMPWl,Gravitation,spotify:track:6Fr50AXBWr8ki9EluTMPWl,0.0148,0.573,0.589,0.27,0.0979,-10.465,0.0677,119.874,0.04,48.0
+30,Petit Biscuit,Presence,7.0,78JcyB3lGWdEuF1enDDsFT,On the Road,spotify:track:78JcyB3lGWdEuF1enDDsFT,0.269,0.645,0.587,0.0152,0.369,-8.203,0.0546,120.961,0.147,45.0
+31,Petit Biscuit,Presence,8.0,0JgWQReWTanfrbT9FRJ7Jj,Wake Up,spotify:track:0JgWQReWTanfrbT9FRJ7Jj,0.128,0.58,0.571,6.17e-06,0.0789,-6.933,0.0908,91.069,0.358,48.0
+32,Petit Biscuit,Presence,9.0,2IeIhWrTyV9h0gBqIL3hh7,Presence,spotify:track:2IeIhWrTyV9h0gBqIL3hh7,0.0355,0.748,0.438,0.884,0.17,-10.815,0.0744,120.97,0.04,45.0
+33,Petit Biscuit,Presence,10.0,4naawD2rpt8Q0Jlmzzfru4,Oceans,spotify:track:4naawD2rpt8Q0Jlmzzfru4,0.0859,0.649,0.524,0.0,0.149,-7.351,0.0443,98.147,0.395,41.0
+34,Petit Biscuit,Presence,11.0,0jWYIVQ6q5ixWpdUYpcEeh,Waterfall,spotify:track:0jWYIVQ6q5ixWpdUYpcEeh,0.467,0.682,0.624,0.0261,0.0886,-7.551,0.0772,119.076,0.202,52.0
+35,Petit Biscuit,Presence,12.0,3WRQUvzRvBDr4AxMWhXc5E,Sunset Lover,spotify:track:3WRQUvzRvBDr4AxMWhXc5E,0.669,0.785,0.525,0.439,0.114,-7.556,0.042,90.853,0.251,72.0
+36,Petit Biscuit,Presence,13.0,3WCprEk7Se2cRukiOYzBVe,Forever Being,spotify:track:3WCprEk7Se2cRukiOYzBVe,0.108,0.538,0.592,0.0179,0.0818,-9.306,0.0532,91.037,0.209,47.0
+37,Petit Biscuit,Presence,14.0,1HYG1VZ9AkBH923wHsU5hT,The End,spotify:track:1HYG1VZ9AkBH923wHsU5hT,0.0372,0.451,0.482,0.00843,0.0798,-9.263,0.252,146.837,0.0976,43.0
+0,Koba LaD,Détail,1.0,5ph6a0ePNutuCfE2Blep0P,En gros,spotify:track:5ph6a0ePNutuCfE2Blep0P,0.44,0.593,0.579,1.29e-06,0.223,-7.327,0.0523,146.006,0.444,62.0
+1,Koba LaD,Détail,2.0,6XmX5N77W98RkZThMYMWQ8,Dans l’avion,spotify:track:6XmX5N77W98RkZThMYMWQ8,0.21,0.812,0.634,0.0,0.0593,-7.012,0.322,127.974,0.706,62.0
+2,Koba LaD,Détail,3.0,6S5zBMqjRM4Ysr8hsV7G1Z,Pas de reine,spotify:track:6S5zBMqjRM4Ysr8hsV7G1Z,0.167,0.819,0.705,0.0,0.104,-6.56,0.126,127.922,0.663,68.0
+3,Koba LaD,Détail,4.0,6RyjUJ96H5v9OsnOANc9vO,Chambre d’hotel,spotify:track:6RyjUJ96H5v9OsnOANc9vO,0.0436,0.899,0.573,0.0,0.103,-5.209,0.127,141.068,0.676,61.0
+4,Koba LaD,Détail,5.0,5GPY3YH3ViZ3FVL0jerEde,5H55,spotify:track:5GPY3YH3ViZ3FVL0jerEde,0.0531,0.683,0.664,0.0,0.0995,-6.255,0.267,96.639,0.359,62.0
+5,Koba LaD,Détail,6.0,5DYY7larVFtcUan5d9o2ov,Feux éteints,spotify:track:5DYY7larVFtcUan5d9o2ov,0.228,0.581,0.664,0.0,0.341,-6.23,0.0596,141.966,0.793,61.0
+6,Koba LaD,Détail,7.0,7hY4m8cDhkRPz3sSyJXN7z,7 sur 7,spotify:track:7hY4m8cDhkRPz3sSyJXN7z,0.182,0.844,0.61,1.05e-06,0.0948,-6.486,0.222,123.07,0.521,64.0
+7,Koba LaD,Détail,8.0,2kryfVJBmmGeZUHP1sQLyf,Bedodo,spotify:track:2kryfVJBmmGeZUHP1sQLyf,0.293,0.788,0.609,0.0,0.0923,-6.316,0.0959,129.99,0.521,61.0
+8,Koba LaD,Détail,9.0,5pPBswLhOoDRTt6ZfgwhAQ,Cité,spotify:track:5pPBswLhOoDRTt6ZfgwhAQ,0.24,0.794,0.635,1.02e-05,0.135,-6.515,0.0667,140.937,0.502,62.0
+9,Koba LaD,Détail,10.0,0OlE17VM4jDcmQb96RqxcX,Encore,spotify:track:0OlE17VM4jDcmQb96RqxcX,0.204,0.782,0.684,0.0,0.129,-5.891,0.201,139.966,0.786,70.0
+10,Koba LaD,Détail,11.0,7p1HpVO4Yr23Bzzu92hd3k,Céramique,spotify:track:7p1HpVO4Yr23Bzzu92hd3k,0.336,0.654,0.586,0.0,0.106,-8.367,0.151,150.049,0.518,60.0
+11,Koba LaD,Détail,12.0,78vrRSUDJIbYrGe3UsTF6Q,Omar,spotify:track:78vrRSUDJIbYrGe3UsTF6Q,0.212,0.805,0.609,0.0,0.144,-6.243,0.152,138.023,0.583,66.0
+12,Koba LaD,Détail,13.0,4KIWuoqHM2VQroFwk19oIR,Helsinki,spotify:track:4KIWuoqHM2VQroFwk19oIR,0.152,0.853,0.562,0.0,0.0843,-5.635,0.156,133.038,0.799,61.0
+13,Koba LaD,Détail,14.0,70pkwEEG7nDTXBFqoGQkH0,Coffre plein,spotify:track:70pkwEEG7nDTXBFqoGQkH0,0.093,0.758,0.56,0.0,0.104,-6.69,0.0639,149.893,0.606,75.0
+14,Koba LaD,Détail,15.0,5VYnEUznpfcDkKN2H4wfhs,Déclic,spotify:track:5VYnEUznpfcDkKN2H4wfhs,0.0938,0.63,0.396,3.33e-05,0.0749,-10.28,0.0616,128.948,0.736,59.0
+15,Koba LaD,L'Affranchi (Deluxe),1.0,4XeDHW8hBxf4ROi5nUPuRz,Koba du 7,spotify:track:4XeDHW8hBxf4ROi5nUPuRz,0.114,0.811,0.678,5.13e-05,0.14,-5.578,0.167,107.931,0.49,42.0
+16,Koba LaD,L'Affranchi (Deluxe),2.0,1cH1PeIGKU2K9Bwebw4Eu1,Cellophané,spotify:track:1cH1PeIGKU2K9Bwebw4Eu1,0.338,0.769,0.597,0.0,0.0812,-7.515,0.265,142.026,0.74,42.0
+17,Koba LaD,L'Affranchi (Deluxe),3.0,7FcwGhvJNHK7bmodYCIYkO,Quadrillé,spotify:track:7FcwGhvJNHK7bmodYCIYkO,0.174,0.808,0.512,0.000967,0.127,-6.448,0.0845,147.067,0.358,40.0
+18,Koba LaD,L'Affranchi (Deluxe),4.0,7JiseC39dmjQu7MmeelQHm,Matin,spotify:track:7JiseC39dmjQu7MmeelQHm,0.423,0.734,0.588,0.0,0.124,-8.345,0.234,124.128,0.581,42.0
+19,Koba LaD,L'Affranchi (Deluxe),5.0,2hwCEQKe0zoCtDacmwOSEH,C’est moi,spotify:track:2hwCEQKe0zoCtDacmwOSEH,0.152,0.824,0.716,0.0,0.135,-4.909,0.136,130.035,0.506,38.0
+20,Koba LaD,L'Affranchi (Deluxe),6.0,0F3pNPBLTkMwNGrFfCqdPU,Amitiés gâchées,spotify:track:0F3pNPBLTkMwNGrFfCqdPU,0.139,0.817,0.661,1.02e-06,0.128,-5.812,0.209,146.049,0.879,38.0
+21,Koba LaD,L'Affranchi (Deluxe),7.0,0xEQfNCojrmc50LP2ny8Al,Mélange,spotify:track:0xEQfNCojrmc50LP2ny8Al,0.321,0.812,0.666,2.13e-06,0.334,-4.487,0.109,130.037,0.647,36.0
+22,Koba LaD,L'Affranchi (Deluxe),8.0,1eMoypRCobD3jiYnRQi8If,Demain j’arrête,spotify:track:1eMoypRCobD3jiYnRQi8If,0.217,0.763,0.581,0.0,0.0991,-6.445,0.167,139.028,0.763,38.0
+23,Koba LaD,L'Affranchi (Deluxe),9.0,7amwsh2X3AejxkthvPqKNA,Quotidien,spotify:track:7amwsh2X3AejxkthvPqKNA,0.261,0.827,0.626,0.0,0.193,-7.744,0.202,139.973,0.674,41.0
+24,Koba LaD,L'Affranchi (Deluxe),10.0,1umwJWmBHk8HZWaFU6cUS2,Quand j’étais petit,spotify:track:1umwJWmBHk8HZWaFU6cUS2,0.349,0.753,0.494,0.0,0.117,-7.772,0.167,146.108,0.315,37.0
+25,Koba LaD,L'Affranchi (Deluxe),11.0,1UukYQ1Sj8hNpeaYPhmoyJ,Le magot,spotify:track:1UukYQ1Sj8hNpeaYPhmoyJ,0.171,0.813,0.736,1.6e-06,0.209,-5.454,0.12,139.939,0.756,37.0
+26,Koba LaD,L'Affranchi (Deluxe),12.0,3b1XDlENq836NUVI7Tb3MK,O.G,spotify:track:3b1XDlENq836NUVI7Tb3MK,0.383,0.725,0.572,0.0,0.0903,-6.44,0.0831,127.977,0.622,40.0
+27,Koba LaD,L'Affranchi (Deluxe),13.0,0FqB51fSMK05beX7FGROO3,Guedro,spotify:track:0FqB51fSMK05beX7FGROO3,0.35,0.506,0.647,3.99e-05,0.104,-7.163,0.446,64.169,0.279,38.0
+28,Koba LaD,L'Affranchi (Deluxe),14.0,6PJSllG4cFa1z4MF8UIYXB,RR 9.1,spotify:track:6PJSllG4cFa1z4MF8UIYXB,0.0703,0.942,0.564,0.0,0.078,-6.293,0.407,126.068,0.393,39.0
+29,Koba LaD,L'Affranchi (Deluxe),15.0,34syus6XQ7blr7pUHdu4Me,Pour toi,spotify:track:34syus6XQ7blr7pUHdu4Me,0.173,0.841,0.5,0.0,0.0882,-7.733,0.212,137.892,0.578,36.0
+30,Koba LaD,L'Affranchi (Deluxe),1.0,1bbsr6bHEZmnaqxVateeul,Marie,spotify:track:1bbsr6bHEZmnaqxVateeul,0.121,0.784,0.748,0.0,0.118,-5.664,0.0417,131.999,0.679,40.0
+31,Koba LaD,L'Affranchi (Deluxe),2.0,0FOQZ5KLnlzFLjCcHb8XfQ,La détaille,spotify:track:0FOQZ5KLnlzFLjCcHb8XfQ,0.284,0.877,0.526,0.0,0.0678,-6.393,0.402,143.039,0.641,38.0
+32,Koba LaD,L'Affranchi (Deluxe),3.0,12LnulcA37FtBqLoo7ZFkb,Pas comme les autres,spotify:track:12LnulcA37FtBqLoo7ZFkb,0.466,0.694,0.646,0.0,0.0828,-8.315,0.0594,132.083,0.371,41.0
+33,Koba LaD,L'Affranchi (Deluxe),4.0,1mNcBc2EbdfTdNOqIgOBdB,Four,spotify:track:1mNcBc2EbdfTdNOqIgOBdB,0.333,0.656,0.633,1.21e-05,0.1,-6.856,0.322,99.598,0.423,37.0
+34,Koba LaD,L'Affranchi (Deluxe),1.0,1R08aR16OkyUIEISNPj8vA,Mortel,spotify:track:1R08aR16OkyUIEISNPj8vA,0.146,0.584,0.692,0.0,0.102,-6.398,0.463,154.008,0.659,53.0
+35,Koba LaD,L'Affranchi (Deluxe),1.0,2L4TQ31hdhsz1FQmBzX52F,Koba du 7,spotify:track:2L4TQ31hdhsz1FQmBzX52F,0.114,0.811,0.678,5.13e-05,0.14,-5.578,0.167,107.931,0.49,28.0
+36,Koba LaD,L'Affranchi (Deluxe),2.0,20VREJDrWxZKMc7WQ35KP3,Cellophané,spotify:track:20VREJDrWxZKMc7WQ35KP3,0.338,0.769,0.597,0.0,0.0812,-7.515,0.265,142.026,0.74,30.0
+37,Koba LaD,L'Affranchi (Deluxe),3.0,43FcLfq7CVn5FUaZwMJWmQ,Quadrillé,spotify:track:43FcLfq7CVn5FUaZwMJWmQ,0.174,0.808,0.512,0.000967,0.127,-6.448,0.0845,147.067,0.358,26.0
+38,Koba LaD,L'Affranchi (Deluxe),4.0,7kUYKqUVcOzAr61gQNpEAy,Matin,spotify:track:7kUYKqUVcOzAr61gQNpEAy,0.423,0.734,0.588,0.0,0.124,-8.345,0.234,124.128,0.581,32.0
+39,Koba LaD,L'Affranchi (Deluxe),5.0,6va0ePkk7fxZNWYfhLeVkG,C’est moi,spotify:track:6va0ePkk7fxZNWYfhLeVkG,0.152,0.824,0.716,0.0,0.135,-4.909,0.136,130.035,0.506,26.0
+40,Koba LaD,L'Affranchi (Deluxe),6.0,6XfoKCspcIT13vUHibVY86,Amitiés gâchées,spotify:track:6XfoKCspcIT13vUHibVY86,0.139,0.817,0.661,1.02e-06,0.128,-5.812,0.209,146.049,0.879,26.0
+41,Koba LaD,L'Affranchi (Deluxe),7.0,7ffyHhltCd5Wu3msYlw15m,Mélange,spotify:track:7ffyHhltCd5Wu3msYlw15m,0.321,0.812,0.666,2.13e-06,0.334,-4.487,0.109,130.037,0.647,25.0
+42,Koba LaD,L'Affranchi (Deluxe),8.0,5YSLwoVLVHnCb8UGbpbnbY,Demain j’arrête,spotify:track:5YSLwoVLVHnCb8UGbpbnbY,0.217,0.763,0.581,0.0,0.0991,-6.445,0.167,139.028,0.763,26.0
+43,Koba LaD,L'Affranchi (Deluxe),9.0,0e20gCSAWkReTFXhCX9BoD,Quotidien,spotify:track:0e20gCSAWkReTFXhCX9BoD,0.261,0.827,0.626,0.0,0.193,-7.744,0.202,139.973,0.674,32.0
+44,Koba LaD,L'Affranchi (Deluxe),10.0,0qgOd9yKu6Tvit7d9FehOX,Quand j’étais petit,spotify:track:0qgOd9yKu6Tvit7d9FehOX,0.349,0.753,0.494,0.0,0.117,-7.772,0.167,146.108,0.315,25.0
+45,Koba LaD,L'Affranchi (Deluxe),11.0,0ZBmXB6t244vwFHztk5xim,Le magot,spotify:track:0ZBmXB6t244vwFHztk5xim,0.171,0.813,0.736,1.6e-06,0.209,-5.454,0.12,139.939,0.756,25.0
+46,Koba LaD,L'Affranchi (Deluxe),12.0,17rx7RJ6EwpEWO51PsTglf,O.G,spotify:track:17rx7RJ6EwpEWO51PsTglf,0.383,0.725,0.572,0.0,0.0903,-6.44,0.0831,127.977,0.622,24.0
+47,Koba LaD,L'Affranchi (Deluxe),13.0,6WFIindby2pRqQbiF7Soby,Guedro,spotify:track:6WFIindby2pRqQbiF7Soby,0.35,0.506,0.647,3.99e-05,0.104,-7.163,0.446,64.169,0.279,27.0
+48,Koba LaD,L'Affranchi (Deluxe),14.0,3WN86uZS3ynCH6kMBZAhK9,RR 9.1,spotify:track:3WN86uZS3ynCH6kMBZAhK9,0.0703,0.942,0.564,0.0,0.078,-6.293,0.407,126.069,0.393,32.0
+49,Koba LaD,L'Affranchi (Deluxe),15.0,1B0A9j9ECDCqHM17QvcdSd,Pour toi,spotify:track:1B0A9j9ECDCqHM17QvcdSd,0.173,0.841,0.5,0.0,0.0882,-7.733,0.212,137.892,0.578,28.0
+50,Koba LaD,L'Affranchi (Deluxe),1.0,4NcZKLjdfTJLpaCOspAjQn,Marie,spotify:track:4NcZKLjdfTJLpaCOspAjQn,0.121,0.784,0.748,0.0,0.118,-5.664,0.0417,131.999,0.679,58.0
+51,Koba LaD,L'Affranchi (Deluxe),2.0,58NYd3kXw0DKbepTTwdHN6,La détaille,spotify:track:58NYd3kXw0DKbepTTwdHN6,0.284,0.877,0.526,0.0,0.0678,-6.393,0.402,143.039,0.641,44.0
+52,Koba LaD,L'Affranchi (Deluxe),3.0,5ChB3XA2whgD93pCKNXebs,Pas comme les autres,spotify:track:5ChB3XA2whgD93pCKNXebs,0.466,0.694,0.646,0.0,0.0828,-8.315,0.0594,132.083,0.371,32.0
+53,Koba LaD,L'Affranchi (Deluxe),4.0,2YYU3NUHd25wKxnPrVf3bI,Four,spotify:track:2YYU3NUHd25wKxnPrVf3bI,0.333,0.656,0.633,1.21e-05,0.1,-6.856,0.322,99.598,0.423,30.0
+54,Koba LaD,L' Affranchi,1.0,7lTlfrzJHtC5GNQ6Dk7boN,Koba du 7,spotify:track:7lTlfrzJHtC5GNQ6Dk7boN,0.114,0.811,0.678,5.13e-05,0.14,-5.578,0.167,107.931,0.49,32.0
+55,Koba LaD,L' Affranchi,2.0,6crKW29G8q61cnQqIWt0sR,Cellophané,spotify:track:6crKW29G8q61cnQqIWt0sR,0.338,0.769,0.597,0.0,0.0812,-7.515,0.265,142.026,0.74,35.0
+56,Koba LaD,L' Affranchi,3.0,4ATm9K0fEVBIhCfb5GOJz1,Quadrillé,spotify:track:4ATm9K0fEVBIhCfb5GOJz1,0.174,0.808,0.512,0.000967,0.127,-6.448,0.0845,147.067,0.358,31.0
+57,Koba LaD,L' Affranchi,4.0,2m7qiZYffdmldiSHNyWz7p,Matin,spotify:track:2m7qiZYffdmldiSHNyWz7p,0.423,0.734,0.588,0.0,0.124,-8.345,0.234,124.128,0.581,36.0
+58,Koba LaD,L' Affranchi,5.0,08XMzE2dSOpsKZSKvyqjgV,C’est moi,spotify:track:08XMzE2dSOpsKZSKvyqjgV,0.152,0.824,0.716,0.0,0.135,-4.909,0.136,130.035,0.506,29.0
+59,Koba LaD,L' Affranchi,6.0,4Y1PSHRMZw0X2F7cRtVEI7,Amitiés gâchées,spotify:track:4Y1PSHRMZw0X2F7cRtVEI7,0.139,0.817,0.661,1.02e-06,0.128,-5.812,0.209,146.049,0.879,30.0
+60,Koba LaD,L' Affranchi,7.0,1XzCiam63tPavgfNDsmSAQ,Mélange,spotify:track:1XzCiam63tPavgfNDsmSAQ,0.321,0.812,0.666,2.13e-06,0.334,-4.487,0.109,130.037,0.647,28.0
+61,Koba LaD,L' Affranchi,8.0,1944vWaacGGRvtbspapWNS,Demain j’arrête,spotify:track:1944vWaacGGRvtbspapWNS,0.217,0.763,0.581,0.0,0.0991,-6.445,0.167,139.028,0.763,31.0
+62,Koba LaD,L' Affranchi,9.0,4DvJP7BNRxRPJrTnclPJvz,Quotidien,spotify:track:4DvJP7BNRxRPJrTnclPJvz,0.261,0.827,0.626,0.0,0.193,-7.744,0.202,139.973,0.674,33.0
+63,Koba LaD,L' Affranchi,10.0,0I9xGP3kMmDgp1y86WceVJ,Quand j’étais petit,spotify:track:0I9xGP3kMmDgp1y86WceVJ,0.349,0.753,0.494,0.0,0.117,-7.772,0.167,146.108,0.315,30.0
+64,Koba LaD,L' Affranchi,11.0,1kVFtuvDQvQzNPw6RgP7Lv,Le magot,spotify:track:1kVFtuvDQvQzNPw6RgP7Lv,0.171,0.813,0.736,1.6e-06,0.209,-5.454,0.12,139.939,0.756,29.0
+65,Koba LaD,L' Affranchi,12.0,2FOI552ouJUicOCag8aKlj,O.G,spotify:track:2FOI552ouJUicOCag8aKlj,0.383,0.725,0.572,0.0,0.0903,-6.44,0.0831,127.977,0.622,28.0
+66,Koba LaD,L' Affranchi,13.0,4SA2op9qAZumuraGykYAy6,Guedro,spotify:track:4SA2op9qAZumuraGykYAy6,0.35,0.506,0.647,3.99e-05,0.104,-7.163,0.446,64.169,0.279,33.0
+67,Koba LaD,L' Affranchi,14.0,1Hsrqq9W0opYYXbGI5uc09,RR 9.1,spotify:track:1Hsrqq9W0opYYXbGI5uc09,0.0703,0.942,0.564,0.0,0.078,-6.293,0.407,126.069,0.393,36.0
+68,Koba LaD,L' Affranchi,15.0,3MB3pp07Nunf1PcaC9YObu,Pour toi,spotify:track:3MB3pp07Nunf1PcaC9YObu,0.173,0.841,0.5,0.0,0.0882,-7.733,0.212,137.892,0.578,31.0
+69,Koba LaD,L' Affranchi,16.0,3kxl1E1Y43M4vgckXfrSgk,Four,spotify:track:3kxl1E1Y43M4vgckXfrSgk,0.333,0.656,0.633,1.21e-05,0.1,-6.856,0.322,99.598,0.423,38.0
+70,Koba LaD,L' Affranchi,1.0,1XrI3uBZ81MNWXLLekmw7l,Koba du 7,spotify:track:1XrI3uBZ81MNWXLLekmw7l,0.114,0.811,0.678,5.13e-05,0.14,-5.578,0.167,107.931,0.49,41.0
+71,Koba LaD,L' Affranchi,2.0,41Rp0dMSgO2QeguHANPsCD,Cellophané,spotify:track:41Rp0dMSgO2QeguHANPsCD,0.338,0.769,0.597,0.0,0.0812,-7.515,0.265,142.026,0.74,51.0
+72,Koba LaD,L' Affranchi,3.0,6WQHr1UxzORL5WkAWQ2B8U,Quadrillé,spotify:track:6WQHr1UxzORL5WkAWQ2B8U,0.174,0.808,0.512,0.000967,0.127,-6.448,0.0845,147.067,0.358,38.0
+73,Koba LaD,L' Affranchi,4.0,3COpbW4W1Qab0ZqiHZxdjv,Matin,spotify:track:3COpbW4W1Qab0ZqiHZxdjv,0.423,0.734,0.588,0.0,0.124,-8.345,0.234,124.128,0.581,55.0
+74,Koba LaD,L' Affranchi,5.0,75j5Ue04YUwJ1ADxux8iXo,C’est moi,spotify:track:75j5Ue04YUwJ1ADxux8iXo,0.152,0.824,0.716,0.0,0.135,-4.909,0.136,130.035,0.506,39.0
+75,Koba LaD,L' Affranchi,6.0,3bArzB9TXQYyO6vVVJnHAS,Amitiés gâchées,spotify:track:3bArzB9TXQYyO6vVVJnHAS,0.139,0.817,0.661,1.02e-06,0.128,-5.812,0.209,146.049,0.879,40.0
+76,Koba LaD,L' Affranchi,7.0,2q4IiR86BH4Axa9MCh8dZj,Mélange,spotify:track:2q4IiR86BH4Axa9MCh8dZj,0.321,0.812,0.666,2.13e-06,0.334,-4.487,0.109,130.037,0.647,38.0
+77,Koba LaD,L' Affranchi,8.0,73c4MNYSywG10SZRQXyFlA,Demain j’arrête,spotify:track:73c4MNYSywG10SZRQXyFlA,0.217,0.763,0.581,0.0,0.0991,-6.445,0.167,139.028,0.763,39.0
+78,Koba LaD,L' Affranchi,9.0,2abVYMtriZHHIDGFZFT5ij,Quotidien,spotify:track:2abVYMtriZHHIDGFZFT5ij,0.261,0.827,0.626,0.0,0.193,-7.744,0.202,139.973,0.674,56.0
+79,Koba LaD,L' Affranchi,10.0,4pELt1me9shREw75ySP798,Quand j’étais petit,spotify:track:4pELt1me9shREw75ySP798,0.349,0.753,0.494,0.0,0.117,-7.772,0.167,146.108,0.315,37.0
+80,Koba LaD,L' Affranchi,11.0,2YrPXEezDwNbDj7kkUOWPy,Le magot,spotify:track:2YrPXEezDwNbDj7kkUOWPy,0.171,0.813,0.736,1.6e-06,0.209,-5.454,0.12,139.939,0.756,40.0
+81,Koba LaD,L' Affranchi,12.0,2svKP1soN7bobxfnHQv7Vz,O.G,spotify:track:2svKP1soN7bobxfnHQv7Vz,0.383,0.725,0.572,0.0,0.0903,-6.44,0.0831,127.977,0.622,36.0
+82,Koba LaD,L' Affranchi,13.0,16mEAOIriJH4aIJW8OiZkD,Guedro,spotify:track:16mEAOIriJH4aIJW8OiZkD,0.35,0.506,0.647,3.99e-05,0.104,-7.163,0.446,64.169,0.279,47.0
+83,Koba LaD,L' Affranchi,14.0,28fP6qcMGPfYOjrx8AOWFn,RR 9.1,spotify:track:28fP6qcMGPfYOjrx8AOWFn,0.0703,0.942,0.564,0.0,0.078,-6.293,0.407,126.069,0.393,63.0
+84,Koba LaD,L' Affranchi,15.0,29czA32SYnivAmIgGdbA5o,Pour toi,spotify:track:29czA32SYnivAmIgGdbA5o,0.173,0.841,0.5,0.0,0.0882,-7.733,0.212,137.892,0.578,47.0
+85,Koba LaD,VII,1.0,2Eo1mGlqYc5kZ7TO7PPJM3,Intro,spotify:track:2Eo1mGlqYc5kZ7TO7PPJM3,0.215,0.872,0.515,9.01e-06,0.093,-6.477,0.348,140.925,0.533,35.0
+86,Koba LaD,VII,2.0,3VkLrcoUMjhm06X0C4OyBP,Chambre 122,spotify:track:3VkLrcoUMjhm06X0C4OyBP,0.24,0.881,0.584,1.26e-05,0.0957,-5.823,0.293,138.009,0.324,42.0
+87,Koba LaD,VII,3.0,0auePCRIjTpJdVDSrZtF93,Honey,spotify:track:0auePCRIjTpJdVDSrZtF93,0.492,0.837,0.751,0.0,0.0815,-5.39,0.374,131.137,0.259,38.0
+88,Koba LaD,VII,4.0,6KtWe9yf5IrzLmREehsAyf,Moments durs,spotify:track:6KtWe9yf5IrzLmREehsAyf,0.57,0.817,0.563,4.48e-06,0.101,-6.221,0.32,119.989,0.722,40.0
+89,Koba LaD,VII,5.0,73yBfOVcHng16TUFG5SuwP,Everyday,spotify:track:73yBfOVcHng16TUFG5SuwP,0.208,0.873,0.81,1.23e-06,0.117,-5.651,0.304,135.096,0.62,36.0
+90,Koba LaD,VII,6.0,6qUboZF1XslQRbd85aZj2E,La C,spotify:track:6qUboZF1XslQRbd85aZj2E,0.302,0.767,0.719,3.64e-05,0.19,-6.221,0.36,172.04,0.638,42.0
+91,Koba LaD,VII,7.0,3pIM0NEOaPMNQPdVRVnOgM,Suge,spotify:track:3pIM0NEOaPMNQPdVRVnOgM,0.172,0.585,0.622,0.0,0.0883,-6.398,0.419,149.928,0.604,39.0
+92,Koba LaD,VII,8.0,6lCbeE92iIQTUDsmbBlME4,Tout,spotify:track:6lCbeE92iIQTUDsmbBlME4,0.452,0.714,0.611,0.000103,0.166,-5.211,0.34,139.784,0.323,37.0
+93,Koba LaD,VII,9.0,0azVHhyVpc0oBtqdYGG2Lk,Train de vie,spotify:track:0azVHhyVpc0oBtqdYGG2Lk,0.216,0.742,0.641,0.0,0.137,-5.585,0.124,146.139,0.418,43.0
+94,Koba LaD,VII,10.0,4cSGIMNNSji93DOkQ16WpU,Rachète,spotify:track:4cSGIMNNSji93DOkQ16WpU,0.316,0.88,0.57,0.0,0.103,-5.871,0.186,131.094,0.506,35.0
+95,Koba LaD,VII,11.0,1vqLZx5H7p3TnuvlRDEUJA,Recul,spotify:track:1vqLZx5H7p3TnuvlRDEUJA,0.215,0.783,0.597,0.0,0.121,-5.188,0.279,144.909,0.459,38.0
+96,Koba LaD,VII,12.0,11Ue3vbIls3OLCXOI6zqZR,Oyé,spotify:track:11Ue3vbIls3OLCXOI6zqZR,0.266,0.841,0.58,0.0,0.241,-4.946,0.334,130.929,0.461,39.0
+97,Koba LaD,VII,13.0,6BD7uRuzo7fVW71xTwtDdX,Seven Binks,spotify:track:6BD7uRuzo7fVW71xTwtDdX,0.106,0.635,0.754,0.0,0.133,-5.318,0.377,136.997,0.801,37.0
+98,Koba LaD,VII,14.0,54kFtgzRwxGBjqG0sVxGuv,J'en veux,spotify:track:54kFtgzRwxGBjqG0sVxGuv,0.252,0.749,0.623,4.97e-06,0.17,-5.856,0.204,145.909,0.302,34.0
+99,Koba LaD,VII,15.0,56EEPjNVNBxc9GUsROZPwO,ORgueilleux,spotify:track:56EEPjNVNBxc9GUsROZPwO,0.125,0.619,0.803,0.0,0.0952,-3.825,0.197,95.368,0.646,43.0
+100,Koba LaD,VII,1.0,2Su1k2X4kwQcf0OuonoDCg,Intro,spotify:track:2Su1k2X4kwQcf0OuonoDCg,0.215,0.872,0.515,9.01e-06,0.093,-6.477,0.348,140.925,0.533,36.0
+101,Koba LaD,VII,2.0,3dmSfpPj9OdlU0Mbbs7p6m,Chambre 122,spotify:track:3dmSfpPj9OdlU0Mbbs7p6m,0.24,0.881,0.584,1.26e-05,0.0957,-5.823,0.293,138.009,0.324,48.0
+102,Koba LaD,VII,3.0,6cedbT0YMh9TWjYUJboOZg,Honey,spotify:track:6cedbT0YMh9TWjYUJboOZg,0.492,0.837,0.751,0.0,0.0815,-5.39,0.374,131.137,0.259,38.0
+103,Koba LaD,VII,4.0,7cHRpZZsPiRVmHC3Plx514,Moments durs,spotify:track:7cHRpZZsPiRVmHC3Plx514,0.57,0.817,0.563,4.48e-06,0.101,-6.221,0.32,119.989,0.722,47.0
+104,Koba LaD,VII,5.0,7nm1HOvqje0k7N3mv44NJC,Everyday,spotify:track:7nm1HOvqje0k7N3mv44NJC,0.208,0.873,0.81,1.23e-06,0.117,-5.651,0.304,135.096,0.62,35.0
+105,Koba LaD,VII,6.0,5PtFV78R0DRvzsTqk1S0Vt,La C,spotify:track:5PtFV78R0DRvzsTqk1S0Vt,0.302,0.767,0.719,3.64e-05,0.19,-6.221,0.36,172.04,0.638,51.0
+106,Koba LaD,VII,7.0,6tG5G78USqn2NTHhApWFKU,Suge,spotify:track:6tG5G78USqn2NTHhApWFKU,0.172,0.585,0.622,0.0,0.0883,-6.398,0.419,149.928,0.604,40.0
+107,Koba LaD,VII,8.0,2SWBWoXNgduC3MtVamamZR,Tout,spotify:track:2SWBWoXNgduC3MtVamamZR,0.452,0.714,0.611,0.000103,0.166,-5.211,0.34,139.784,0.323,38.0
+108,Koba LaD,VII,9.0,6FqNHDHEsUTKqVWXBkMd9y,Train de vie,spotify:track:6FqNHDHEsUTKqVWXBkMd9y,0.216,0.742,0.641,0.0,0.137,-5.585,0.124,146.139,0.418,57.0
+109,Koba LaD,VII,10.0,57vD83aas52btvNXr2E2u6,Rachète,spotify:track:57vD83aas52btvNXr2E2u6,0.316,0.88,0.57,0.0,0.103,-5.871,0.186,131.094,0.506,36.0
+110,Koba LaD,VII,11.0,0nlZOebhoPbC6collvr5uG,Recul,spotify:track:0nlZOebhoPbC6collvr5uG,0.215,0.783,0.597,0.0,0.121,-5.188,0.279,144.909,0.459,39.0
+111,Koba LaD,VII,12.0,1K6idVTyVwb5DIEkCEf06y,Oyé,spotify:track:1K6idVTyVwb5DIEkCEf06y,0.266,0.841,0.58,0.0,0.241,-4.946,0.334,130.929,0.461,46.0
+112,Koba LaD,VII,13.0,27ttKRZGALgDyoFCxzxNP0,Seven Binks,spotify:track:27ttKRZGALgDyoFCxzxNP0,0.106,0.635,0.754,0.0,0.133,-5.318,0.377,136.997,0.801,41.0
+113,Koba LaD,VII,14.0,7DNUchli0y2Msfv8XFKpO1,J'en veux,spotify:track:7DNUchli0y2Msfv8XFKpO1,0.252,0.749,0.623,4.97e-06,0.17,-5.856,0.204,145.909,0.302,35.0
+0,Aya Nakamura,AYA,1.0,7iZVBT6LV32t4l00p73VAw,Plus Jamais (feat. Stormzy),spotify:track:7iZVBT6LV32t4l00p73VAw,0.373,0.605,0.419,0.0,0.128,-9.032,0.0342,152.161,0.291,77.0
+1,Aya Nakamura,AYA,2.0,3eS2Xx32pVsYj66a3TACh3,Tchop,spotify:track:3eS2Xx32pVsYj66a3TACh3,0.12,0.845,0.69,3.06e-05,0.148,-6.873,0.241,97.97,0.257,71.0
+2,Aya Nakamura,AYA,3.0,3V6NCwBywAwpAlAyGL7h0p,Doudou,spotify:track:3V6NCwBywAwpAlAyGL7h0p,0.136,0.773,0.609,0.0,0.0729,-5.855,0.244,98.071,0.697,72.0
+3,Aya Nakamura,AYA,4.0,65RWVU6N81CeH65nu52K1U,Jolie nana,spotify:track:65RWVU6N81CeH65nu52K1U,0.269,0.813,0.64,0.0,0.131,-5.908,0.272,92.989,0.488,75.0
+4,Aya Nakamura,AYA,5.0,5lK9Z8Olm5QKXt29LWDG6M,Fly,spotify:track:5lK9Z8Olm5QKXt29LWDG6M,0.478,0.72,0.459,0.0,0.116,-5.637,0.0331,95.013,0.359,69.0
+5,Aya Nakamura,AYA,6.0,1kXziv0MwuuTrOYAT8JukL,Biff,spotify:track:1kXziv0MwuuTrOYAT8JukL,0.0471,0.838,0.642,0.0,0.155,-5.59,0.0748,98.014,0.586,66.0
+6,Aya Nakamura,AYA,7.0,3KQLmecwyKuzu8WTjNA0HQ,Sentiments grandissants,spotify:track:3KQLmecwyKuzu8WTjNA0HQ,0.166,0.718,0.751,0.0,0.1,-5.975,0.14,97.596,0.543,67.0
+7,Aya Nakamura,AYA,8.0,0tkabB4UAJus9OhbXjIorg,Love de moi,spotify:track:0tkabB4UAJus9OhbXjIorg,0.507,0.735,0.694,0.0,0.0994,-5.456,0.154,86.959,0.278,66.0
+8,Aya Nakamura,AYA,9.0,0zOh7uYDYvifz6yx53SZsR,Ça blesse,spotify:track:0zOh7uYDYvifz6yx53SZsR,0.178,0.923,0.524,1.86e-06,0.0575,-7.387,0.21,95.043,0.423,66.0
+9,Aya Nakamura,AYA,10.0,2ZDgStTJcE07tzB0x4M5cs,Mon chéri,spotify:track:2ZDgStTJcE07tzB0x4M5cs,0.0607,0.851,0.679,0.000287,0.104,-7.997,0.118,89.995,0.446,64.0
+10,Aya Nakamura,AYA,11.0,656J3lgQWCiHkPmtGWnBsO,Hot,spotify:track:656J3lgQWCiHkPmtGWnBsO,0.0566,0.49,0.757,0.0,0.351,-6.489,0.402,159.589,0.423,66.0
+11,Aya Nakamura,AYA,12.0,0SpWaGS2OVOqkZz5KDz4fW,Nirvana,spotify:track:0SpWaGS2OVOqkZz5KDz4fW,0.394,0.912,0.469,0.0,0.2,-6.68,0.146,107.023,0.486,67.0
+12,Aya Nakamura,AYA,13.0,4YcK0u6DgSg1jQqWYCXTBq,La machine,spotify:track:4YcK0u6DgSg1jQqWYCXTBq,0.0596,0.927,0.686,2.2e-06,0.11,-4.23,0.162,127.038,0.43,66.0
+13,Aya Nakamura,AYA,14.0,3Pks6NBLfyFP3GIrDKNh1C,Mon Lossa (feat. Ms Banks),spotify:track:3Pks6NBLfyFP3GIrDKNh1C,0.144,0.808,0.673,0.0,0.19,-6.734,0.156,92.88,0.478,64.0
+14,Aya Nakamura,AYA,15.0,49IzWufYtbt3tgUN8ORNe0,Préféré (feat. OBOY),spotify:track:49IzWufYtbt3tgUN8ORNe0,0.0175,0.758,0.74,0.0,0.0601,-7.467,0.0925,173.862,0.631,71.0
+15,Aya Nakamura,NAKAMURA (Deluxe Edition),1.0,4sTTYGVTIyCnUJgnIOMMtY,La dot,spotify:track:4sTTYGVTIyCnUJgnIOMMtY,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,16.0
+16,Aya Nakamura,NAKAMURA (Deluxe Edition),2.0,7AJ467yzt3qzhMNSOmh9Dl,Djadja,spotify:track:7AJ467yzt3qzhMNSOmh9Dl,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,22.0
+17,Aya Nakamura,NAKAMURA (Deluxe Edition),3.0,5G51xCpOZfgEZfsnFN2fgB,Pompom,spotify:track:5G51xCpOZfgEZfsnFN2fgB,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,17.0
+18,Aya Nakamura,NAKAMURA (Deluxe Edition),4.0,5XmV0KTPDTjLFe8gOD5FHb,Copines,spotify:track:5XmV0KTPDTjLFe8gOD5FHb,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,17.0
+19,Aya Nakamura,NAKAMURA (Deluxe Edition),5.0,6psTDQkoLqCvw9moOQ1b73,Pookie,spotify:track:6psTDQkoLqCvw9moOQ1b73,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,17.0
+20,Aya Nakamura,NAKAMURA (Deluxe Edition),6.0,62EDSs2y98b6h883WvCB5x,Ça fait mal,spotify:track:62EDSs2y98b6h883WvCB5x,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,14.0
+21,Aya Nakamura,NAKAMURA (Deluxe Edition),7.0,6pbA5axVSZG3Db1EMsIGca,Faya,spotify:track:6pbA5axVSZG3Db1EMsIGca,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,13.0
+22,Aya Nakamura,NAKAMURA (Deluxe Edition),8.0,59x4c2aXofoWzBSHm9Fst6,Gangster,spotify:track:59x4c2aXofoWzBSHm9Fst6,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,13.0
+23,Aya Nakamura,NAKAMURA (Deluxe Edition),9.0,741G8WGGtBiNw138nPRTqP,Sucette (feat. Niska),spotify:track:741G8WGGtBiNw138nPRTqP,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,13.0
+24,Aya Nakamura,NAKAMURA (Deluxe Edition),10.0,4LBidb5vG5URoh7BOhkl5a,Whine Up,spotify:track:4LBidb5vG5URoh7BOhkl5a,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,13.0
+25,Aya Nakamura,NAKAMURA (Deluxe Edition),11.0,1VxvUIP65y9SW6K40u2WPi,Gang (feat. Davido),spotify:track:1VxvUIP65y9SW6K40u2WPi,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,11.0
+26,Aya Nakamura,NAKAMURA (Deluxe Edition),12.0,5LaBHKRt0wjSecRmHSrMPH,Dans ma bulle,spotify:track:5LaBHKRt0wjSecRmHSrMPH,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.25,139.957,0.394,10.0
+27,Aya Nakamura,NAKAMURA (Deluxe Edition),13.0,4KQprQ8RIUwp6b3P4SgzQe,Oula,spotify:track:4KQprQ8RIUwp6b3P4SgzQe,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,10.0
+28,Aya Nakamura,NAKAMURA (Deluxe Edition),14.0,3k08qTRkNIRpB4lFGxQZCR,Soldat,spotify:track:3k08qTRkNIRpB4lFGxQZCR,0.409,0.699,0.559,0.0,0.118,-6.21,0.0449,99.621,0.467,10.0
+29,Aya Nakamura,NAKAMURA (Deluxe Edition),15.0,5Imx5NEvuIEVLeP3giBMkH,Idiot,spotify:track:5Imx5NEvuIEVLeP3giBMkH,0.19,0.787,0.825,0.0,0.0554,-4.669,0.0988,103.075,0.928,11.0
+30,Aya Nakamura,NAKAMURA (Deluxe Edition),16.0,2Ua779DgDhmigJGp1Gw1YT,40%,spotify:track:2Ua779DgDhmigJGp1Gw1YT,0.396,0.841,0.693,3.99e-06,0.133,-7.335,0.205,92.021,0.678,15.0
+31,Aya Nakamura,NAKAMURA (Deluxe Edition),17.0,60AYuPYXaKtkeqhXYkNo9z,Claqué,spotify:track:60AYuPYXaKtkeqhXYkNo9z,0.241,0.769,0.748,0.0,0.1,-5.386,0.332,99.632,0.479,11.0
+32,Aya Nakamura,NAKAMURA (Deluxe Edition),18.0,6EsOsv46camBZipBvaI3jF,Sucette (feat. Niska) - Remix,spotify:track:6EsOsv46camBZipBvaI3jF,0.243,0.771,0.747,0.0,0.0685,-5.504,0.21,190.071,0.766,11.0
+33,Aya Nakamura,NAKAMURA (Deluxe Edition),19.0,5xKhHmrmbp2FHIl9rsvxlS,Pookie (feat. Capo Plaza) - Remix,spotify:track:5xKhHmrmbp2FHIl9rsvxlS,0.0584,0.841,0.62,0.0,0.0988,-6.91,0.0959,98.023,0.519,18.0
+34,Aya Nakamura,NAKAMURA (Deluxe Edition),20.0,6ijnJfMVsQaW9Pk9Zljzn6,Djadja (feat. Maluma) - Remix,spotify:track:6ijnJfMVsQaW9Pk9Zljzn6,0.175,0.791,0.682,0.0,0.0926,-7.328,0.158,98.031,0.672,66.0
+35,Aya Nakamura,NAKAMURA (Deluxe Edition),1.0,2cwM2GtpHEt158RyAw2HUb,La dot,spotify:track:2cwM2GtpHEt158RyAw2HUb,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,19.0
+36,Aya Nakamura,NAKAMURA (Deluxe Edition),2.0,58lvkH1uh7XXuoieydM8Er,Djadja,spotify:track:58lvkH1uh7XXuoieydM8Er,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,18.0
+37,Aya Nakamura,NAKAMURA (Deluxe Edition),3.0,2oIjZOc3phmPjMtq4McKfx,Pompom,spotify:track:2oIjZOc3phmPjMtq4McKfx,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,18.0
+38,Aya Nakamura,NAKAMURA (Deluxe Edition),4.0,3lJH5hRin41m1ktgZD7lLP,Copines,spotify:track:3lJH5hRin41m1ktgZD7lLP,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,20.0
+39,Aya Nakamura,NAKAMURA (Deluxe Edition),5.0,2PWvFM3kbHVbteM6JHwsM4,Pookie,spotify:track:2PWvFM3kbHVbteM6JHwsM4,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,18.0
+40,Aya Nakamura,NAKAMURA (Deluxe Edition),6.0,2d3hqtdHO7AwKzdqBC6x0B,Ça fait mal,spotify:track:2d3hqtdHO7AwKzdqBC6x0B,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,17.0
+41,Aya Nakamura,NAKAMURA (Deluxe Edition),7.0,4gyfNSOcJa9gHYyfasjujC,Faya,spotify:track:4gyfNSOcJa9gHYyfasjujC,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,16.0
+42,Aya Nakamura,NAKAMURA (Deluxe Edition),8.0,79yrBkQdUlwbHu6RBtk510,Gangster,spotify:track:79yrBkQdUlwbHu6RBtk510,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,17.0
+43,Aya Nakamura,NAKAMURA (Deluxe Edition),9.0,63YZyelIx9dVzLIlXAdZit,Sucette (feat. Niska),spotify:track:63YZyelIx9dVzLIlXAdZit,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,16.0
+44,Aya Nakamura,NAKAMURA (Deluxe Edition),10.0,6BZVMLqv0kbZ9P6QELmFCh,Whine Up,spotify:track:6BZVMLqv0kbZ9P6QELmFCh,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,16.0
+45,Aya Nakamura,NAKAMURA (Deluxe Edition),11.0,6AbSPWqYhRNmf3GhYfHePA,Gang (feat. Davido),spotify:track:6AbSPWqYhRNmf3GhYfHePA,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,14.0
+46,Aya Nakamura,NAKAMURA (Deluxe Edition),12.0,6lDe0p2ABT4e6RPXo3Pwwf,Dans ma bulle,spotify:track:6lDe0p2ABT4e6RPXo3Pwwf,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.25,139.957,0.394,13.0
+47,Aya Nakamura,NAKAMURA (Deluxe Edition),13.0,4TUyGhO9SSpu01IXbvjca6,Oula,spotify:track:4TUyGhO9SSpu01IXbvjca6,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,14.0
+48,Aya Nakamura,NAKAMURA (Deluxe Edition),14.0,7uMgHZ1rRVifNaTNH5Cdns,Soldat,spotify:track:7uMgHZ1rRVifNaTNH5Cdns,0.409,0.699,0.559,0.0,0.118,-6.21,0.0449,99.621,0.467,16.0
+49,Aya Nakamura,NAKAMURA (Deluxe Edition),15.0,7hcKY1M8f1ViVGK9fo9V8i,Idiot,spotify:track:7hcKY1M8f1ViVGK9fo9V8i,0.19,0.787,0.825,0.0,0.0554,-4.669,0.0988,103.075,0.928,16.0
+50,Aya Nakamura,NAKAMURA (Deluxe Edition),16.0,1d8unFlkfR6lKZiAVg130T,40%,spotify:track:1d8unFlkfR6lKZiAVg130T,0.396,0.841,0.693,3.99e-06,0.133,-7.335,0.205,92.021,0.678,20.0
+51,Aya Nakamura,NAKAMURA (Deluxe Edition),17.0,1l7rkd9JUKOLNGI8KYrFrF,Claqué,spotify:track:1l7rkd9JUKOLNGI8KYrFrF,0.241,0.769,0.748,0.0,0.1,-5.386,0.332,99.632,0.479,16.0
+52,Aya Nakamura,NAKAMURA (Deluxe Edition),18.0,26Jo4xOYI7rstvgqUD6ntr,Sucette (feat. Niska) - Remix,spotify:track:26Jo4xOYI7rstvgqUD6ntr,0.243,0.771,0.747,0.0,0.0685,-5.504,0.21,190.071,0.766,14.0
+53,Aya Nakamura,NAKAMURA (Deluxe Edition),19.0,4QNO2BInmIAg8v3yUUQ0YX,Djadja (feat. Loredana) - Remix,spotify:track:4QNO2BInmIAg8v3yUUQ0YX,0.0723,0.836,0.742,0.0,0.0978,-6.961,0.256,97.992,0.602,14.0
+54,Aya Nakamura,NAKAMURA (Deluxe Edition),20.0,5V34UM6H6q6ASLUEk9ln1a,Djadja (feat. Maluma) - Remix,spotify:track:5V34UM6H6q6ASLUEk9ln1a,0.175,0.791,0.682,0.0,0.0926,-7.328,0.158,98.031,0.672,44.0
+55,Aya Nakamura,NAKAMURA (Deluxe Edition),1.0,0QaOGEPz5AsDJtNyH8GmKr,La dot,spotify:track:0QaOGEPz5AsDJtNyH8GmKr,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,12.0
+56,Aya Nakamura,NAKAMURA (Deluxe Edition),2.0,124MqBwAu5PuBdEH24tB1G,Djadja,spotify:track:124MqBwAu5PuBdEH24tB1G,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,16.0
+57,Aya Nakamura,NAKAMURA (Deluxe Edition),3.0,0sHXIHVQAR1EjoOu6VlnlS,Pompom,spotify:track:0sHXIHVQAR1EjoOu6VlnlS,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,10.0
+58,Aya Nakamura,NAKAMURA (Deluxe Edition),4.0,2aGm9IOSnXuYpALFemGvHd,Copines,spotify:track:2aGm9IOSnXuYpALFemGvHd,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,11.0
+59,Aya Nakamura,NAKAMURA (Deluxe Edition),5.0,1cFuPvZdeAAYghpwXma8wS,Pookie,spotify:track:1cFuPvZdeAAYghpwXma8wS,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,14.0
+60,Aya Nakamura,NAKAMURA (Deluxe Edition),6.0,0eLtSPLa966fEAIYfhqKYF,Ça fait mal,spotify:track:0eLtSPLa966fEAIYfhqKYF,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,9.0
+61,Aya Nakamura,NAKAMURA (Deluxe Edition),7.0,5ImYZXY7aoV7s2lwet5U2l,Faya,spotify:track:5ImYZXY7aoV7s2lwet5U2l,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,7.0
+62,Aya Nakamura,NAKAMURA (Deluxe Edition),8.0,1hUENBf78272RZDluBXLJM,Gangster,spotify:track:1hUENBf78272RZDluBXLJM,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,8.0
+63,Aya Nakamura,NAKAMURA (Deluxe Edition),9.0,5bhyq7IxovC0SrbEOFiwRk,Sucette (feat. Niska),spotify:track:5bhyq7IxovC0SrbEOFiwRk,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,7.0
+64,Aya Nakamura,NAKAMURA (Deluxe Edition),10.0,1Zhflh3OdAzoYRZ0uhYqak,Whine Up,spotify:track:1Zhflh3OdAzoYRZ0uhYqak,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,7.0
+65,Aya Nakamura,NAKAMURA (Deluxe Edition),11.0,7pr4XYSMqXXs1Acv6Ri1Qf,Gang (feat. Davido),spotify:track:7pr4XYSMqXXs1Acv6Ri1Qf,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,6.0
+66,Aya Nakamura,NAKAMURA (Deluxe Edition),12.0,411S3aXvnLbPYmgXoMkl0M,Dans ma bulle,spotify:track:411S3aXvnLbPYmgXoMkl0M,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.249,139.926,0.394,5.0
+67,Aya Nakamura,NAKAMURA (Deluxe Edition),13.0,1Zmcm74PN3vdsaE9KzzdQV,Oula,spotify:track:1Zmcm74PN3vdsaE9KzzdQV,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,5.0
+68,Aya Nakamura,NAKAMURA (Deluxe Edition),14.0,3IObWINMWPM42fkoWbOktG,Soldat,spotify:track:3IObWINMWPM42fkoWbOktG,0.409,0.699,0.559,0.0,0.118,-6.21,0.0449,99.621,0.467,6.0
+69,Aya Nakamura,NAKAMURA (Deluxe Edition),15.0,2hAgkoBhUJ0fv2txftFD4z,Idiot,spotify:track:2hAgkoBhUJ0fv2txftFD4z,0.19,0.787,0.825,0.0,0.0554,-4.669,0.0988,103.075,0.928,8.0
+70,Aya Nakamura,NAKAMURA (Deluxe Edition),16.0,3i9XYRPbVEXxt1ifHrurcq,40%,spotify:track:3i9XYRPbVEXxt1ifHrurcq,0.396,0.841,0.693,3.99e-06,0.133,-7.335,0.205,92.021,0.678,8.0
+71,Aya Nakamura,NAKAMURA (Deluxe Edition),17.0,1QAypm4iozK9CNyxfBE0a3,Claqué,spotify:track:1QAypm4iozK9CNyxfBE0a3,0.241,0.769,0.748,0.0,0.1,-5.386,0.332,99.632,0.479,8.0
+72,Aya Nakamura,NAKAMURA (Deluxe Edition),18.0,0HtStZsl4lp943CI0yfM6P,Sucette (feat. Niska) - Remix,spotify:track:0HtStZsl4lp943CI0yfM6P,0.243,0.771,0.747,0.0,0.0685,-5.504,0.21,190.071,0.766,8.0
+73,Aya Nakamura,NAKAMURA (Deluxe Edition),19.0,6h5nbfvIJHRNH3oGrNWJwn,Pookie (feat. Capo Plaza) - Remix,spotify:track:6h5nbfvIJHRNH3oGrNWJwn,0.0584,0.841,0.62,0.0,0.0988,-6.91,0.0959,98.023,0.519,52.0
+74,Aya Nakamura,NAKAMURA (Deluxe Edition),1.0,1hB6OTZMaGOXTUMNafRLUq,La dot,spotify:track:1hB6OTZMaGOXTUMNafRLUq,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,33.0
+75,Aya Nakamura,NAKAMURA (Deluxe Edition),2.0,0zHtni5knZ1IWx1vVtV07b,Djadja,spotify:track:0zHtni5knZ1IWx1vVtV07b,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,34.0
+76,Aya Nakamura,NAKAMURA (Deluxe Edition),3.0,4fTfAAZ7aXrvBZUsfWKWue,Pompom,spotify:track:4fTfAAZ7aXrvBZUsfWKWue,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,32.0
+77,Aya Nakamura,NAKAMURA (Deluxe Edition),4.0,28lICPl7Fc4KevcVWiW5ng,Copines,spotify:track:28lICPl7Fc4KevcVWiW5ng,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,33.0
+78,Aya Nakamura,NAKAMURA (Deluxe Edition),5.0,0kFKtsI2nZ97NZYiOIsz32,Pookie,spotify:track:0kFKtsI2nZ97NZYiOIsz32,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,33.0
+79,Aya Nakamura,NAKAMURA (Deluxe Edition),6.0,0MxyYd0mrr7QKWySo1eIBd,Ça fait mal,spotify:track:0MxyYd0mrr7QKWySo1eIBd,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,30.0
+80,Aya Nakamura,NAKAMURA (Deluxe Edition),7.0,4cz79tVVBza3CiCWbPBUtV,Faya,spotify:track:4cz79tVVBza3CiCWbPBUtV,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,29.0
+81,Aya Nakamura,NAKAMURA (Deluxe Edition),8.0,2vFsLHom28rLRwhBMd2zSk,Gangster,spotify:track:2vFsLHom28rLRwhBMd2zSk,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,29.0
+82,Aya Nakamura,NAKAMURA (Deluxe Edition),9.0,2Xh3Ytmxw3TSGD56Vpi7zU,Sucette (feat. Niska),spotify:track:2Xh3Ytmxw3TSGD56Vpi7zU,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,29.0
+83,Aya Nakamura,NAKAMURA (Deluxe Edition),10.0,3jd5oO35gbyI2JX0GLoedE,Whine Up,spotify:track:3jd5oO35gbyI2JX0GLoedE,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,29.0
+84,Aya Nakamura,NAKAMURA (Deluxe Edition),11.0,4PmzgQ6AztL4JvE98hjfDj,Gang (feat. Davido),spotify:track:4PmzgQ6AztL4JvE98hjfDj,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,28.0
+85,Aya Nakamura,NAKAMURA (Deluxe Edition),12.0,3oS4FSnZupJHNyRLoXSnPx,Dans ma bulle,spotify:track:3oS4FSnZupJHNyRLoXSnPx,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.25,139.957,0.394,26.0
+86,Aya Nakamura,NAKAMURA (Deluxe Edition),13.0,1K6OrSU1nqHeHtzD0sYgIz,Oula,spotify:track:1K6OrSU1nqHeHtzD0sYgIz,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,27.0
+87,Aya Nakamura,NAKAMURA (Deluxe Edition),14.0,2PEcMIryMiRL6fg0nFGYhG,Soldat,spotify:track:2PEcMIryMiRL6fg0nFGYhG,0.409,0.699,0.559,0.0,0.118,-6.21,0.0449,99.621,0.467,28.0
+88,Aya Nakamura,NAKAMURA (Deluxe Edition),15.0,703OwUvWE5DjUWQBrwyHjo,Idiot,spotify:track:703OwUvWE5DjUWQBrwyHjo,0.19,0.787,0.825,0.0,0.0554,-4.669,0.0988,103.075,0.928,29.0
+89,Aya Nakamura,NAKAMURA (Deluxe Edition),16.0,7r8V09mro1cClCvx92gOL4,40%,spotify:track:7r8V09mro1cClCvx92gOL4,0.396,0.841,0.693,3.99e-06,0.133,-7.335,0.205,92.021,0.678,32.0
+90,Aya Nakamura,NAKAMURA (Deluxe Edition),17.0,3sVZkkOPnhYT717fXRceGu,Claqué,spotify:track:3sVZkkOPnhYT717fXRceGu,0.241,0.769,0.748,0.0,0.1,-5.386,0.332,99.632,0.479,28.0
+91,Aya Nakamura,NAKAMURA (Deluxe Edition),18.0,6kRhvkXHTWcrmNOpMBvobc,Sucette (feat. Niska) - Remix,spotify:track:6kRhvkXHTWcrmNOpMBvobc,0.243,0.771,0.747,0.0,0.0685,-5.504,0.21,190.071,0.766,28.0
+92,Aya Nakamura,NAKAMURA (Deluxe Edition),19.0,13vDU8nPsvTGEVTMB8Vw7g,Djadja (feat. Maluma) - Remix,spotify:track:13vDU8nPsvTGEVTMB8Vw7g,0.175,0.791,0.682,0.0,0.0926,-7.328,0.158,98.031,0.672,72.0
+93,Aya Nakamura,NAKAMURA (Deluxe Edition),1.0,5IEpADYKfcKBPxcSh8hbwh,La dot,spotify:track:5IEpADYKfcKBPxcSh8hbwh,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,42.0
+94,Aya Nakamura,NAKAMURA (Deluxe Edition),2.0,7sHlzMxsjsEuYx7eFD1Un0,Djadja,spotify:track:7sHlzMxsjsEuYx7eFD1Un0,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,43.0
+95,Aya Nakamura,NAKAMURA (Deluxe Edition),3.0,3dYMXtYZetf4vR03BVhUyn,Pompom,spotify:track:3dYMXtYZetf4vR03BVhUyn,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,40.0
+96,Aya Nakamura,NAKAMURA (Deluxe Edition),4.0,6MFKIPvpuwgMwEfL1DjO9D,Copines,spotify:track:6MFKIPvpuwgMwEfL1DjO9D,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,42.0
+97,Aya Nakamura,NAKAMURA (Deluxe Edition),5.0,78Bmv5qXjCTSGMXsLRWi23,Pookie,spotify:track:78Bmv5qXjCTSGMXsLRWi23,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,44.0
+98,Aya Nakamura,NAKAMURA (Deluxe Edition),6.0,6BezAKWMEf4ZBjh1Ksilt6,Ça fait mal,spotify:track:6BezAKWMEf4ZBjh1Ksilt6,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,38.0
+99,Aya Nakamura,NAKAMURA (Deluxe Edition),7.0,6CRzwA9Jc7Gc9uU13DE6tT,Faya,spotify:track:6CRzwA9Jc7Gc9uU13DE6tT,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,37.0
+100,Aya Nakamura,NAKAMURA (Deluxe Edition),8.0,0X5rrmLsZ62YQOdM49IFHv,Gangster,spotify:track:0X5rrmLsZ62YQOdM49IFHv,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,37.0
+101,Aya Nakamura,NAKAMURA (Deluxe Edition),9.0,6kpMRV3Vx6JsQgO5myZHI3,Sucette (feat. Niska),spotify:track:6kpMRV3Vx6JsQgO5myZHI3,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,38.0
+102,Aya Nakamura,NAKAMURA (Deluxe Edition),10.0,1TX3seQmsyCdSBfoRlAKJm,Whine Up,spotify:track:1TX3seQmsyCdSBfoRlAKJm,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,38.0
+103,Aya Nakamura,NAKAMURA (Deluxe Edition),11.0,6P5YGkue0mC0aEs617d7yw,Gang (feat. Davido),spotify:track:6P5YGkue0mC0aEs617d7yw,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,35.0
+104,Aya Nakamura,NAKAMURA (Deluxe Edition),12.0,3KPAKSSaC7liDoYJSWjQsH,Dans ma bulle,spotify:track:3KPAKSSaC7liDoYJSWjQsH,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.249,139.926,0.394,33.0
+105,Aya Nakamura,NAKAMURA (Deluxe Edition),13.0,7nkQCwj6gu7O89pdjbamhf,Oula,spotify:track:7nkQCwj6gu7O89pdjbamhf,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,39.0
+106,Aya Nakamura,NAKAMURA (Deluxe Edition),14.0,4srioPdWTM3ycYzhPT2jLf,Soldat,spotify:track:4srioPdWTM3ycYzhPT2jLf,0.409,0.699,0.559,0.0,0.118,-6.21,0.0449,99.621,0.467,56.0
+107,Aya Nakamura,NAKAMURA (Deluxe Edition),15.0,3uZLIKHzIOsQkmETZuw2rh,Idiot,spotify:track:3uZLIKHzIOsQkmETZuw2rh,0.19,0.787,0.825,0.0,0.0554,-4.669,0.0988,103.075,0.928,50.0
+108,Aya Nakamura,NAKAMURA (Deluxe Edition),16.0,47LFcy7prvEY5D08d26zOo,40%,spotify:track:47LFcy7prvEY5D08d26zOo,0.396,0.841,0.693,3.99e-06,0.133,-7.335,0.205,92.021,0.678,67.0
+109,Aya Nakamura,NAKAMURA (Deluxe Edition),17.0,3uU8bm0UkHc8g0omL5vbRw,Claqué,spotify:track:3uU8bm0UkHc8g0omL5vbRw,0.241,0.769,0.748,0.0,0.1,-5.386,0.332,99.632,0.479,52.0
+110,Aya Nakamura,NAKAMURA (Deluxe Edition),18.0,10janMLf2xYyX6K0BDXLvL,Sucette (feat. Niska) - Remix,spotify:track:10janMLf2xYyX6K0BDXLvL,0.243,0.771,0.747,0.0,0.0685,-5.504,0.21,190.071,0.766,42.0
+111,Aya Nakamura,NAKAMURA,1.0,1cd3zKpdVuQKzB8ghSnCJZ,La dot,spotify:track:1cd3zKpdVuQKzB8ghSnCJZ,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,43.0
+112,Aya Nakamura,NAKAMURA,2.0,6FqqTni0AEtGXynpMpDm4L,Djadja,spotify:track:6FqqTni0AEtGXynpMpDm4L,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,57.0
+113,Aya Nakamura,NAKAMURA,3.0,4MPUqKtcV80d3zsOGcklVK,Pompom,spotify:track:4MPUqKtcV80d3zsOGcklVK,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,36.0
+114,Aya Nakamura,NAKAMURA,4.0,65PsPkMG2QiFM8N5qnuv4B,Copines,spotify:track:65PsPkMG2QiFM8N5qnuv4B,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,48.0
+115,Aya Nakamura,NAKAMURA,5.0,2htTXkmqXnB3hndUwI2KUg,Pookie,spotify:track:2htTXkmqXnB3hndUwI2KUg,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,55.0
+116,Aya Nakamura,NAKAMURA,6.0,6UIsR9N797LHV5xvSOgpWZ,Ça fait mal,spotify:track:6UIsR9N797LHV5xvSOgpWZ,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,34.0
+117,Aya Nakamura,NAKAMURA,7.0,1CTuGs5bznnE175feCpjOh,Faya,spotify:track:1CTuGs5bznnE175feCpjOh,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,32.0
+118,Aya Nakamura,NAKAMURA,8.0,4ury0QTZ3rgOEPJqXbB0sH,Gangster,spotify:track:4ury0QTZ3rgOEPJqXbB0sH,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,35.0
+119,Aya Nakamura,NAKAMURA,9.0,7gOuBEnfjXs7WHZ7QfKvpy,Sucette (feat. Niska),spotify:track:7gOuBEnfjXs7WHZ7QfKvpy,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,38.0
+120,Aya Nakamura,NAKAMURA,10.0,7igmJfuhlAAKe7Dn11Yest,Whine Up,spotify:track:7igmJfuhlAAKe7Dn11Yest,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,36.0
+121,Aya Nakamura,NAKAMURA,11.0,2PEeXN85GvJMHpsYAB7fJU,Gang (feat. Davido),spotify:track:2PEeXN85GvJMHpsYAB7fJU,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,31.0
+122,Aya Nakamura,NAKAMURA,12.0,5I6ajoDB4ejClleueU7cTd,Dans ma bulle,spotify:track:5I6ajoDB4ejClleueU7cTd,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.249,139.926,0.394,29.0
+123,Aya Nakamura,NAKAMURA,13.0,15OPSVhbl3obOdq7kXc6iI,Oula,spotify:track:15OPSVhbl3obOdq7kXc6iI,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,34.0
+124,Aya Nakamura,NAKAMURA,14.0,5PBNu79LTOfx1vM1MdxHxP,Djadja (feat. Loredana) - Remix,spotify:track:5PBNu79LTOfx1vM1MdxHxP,0.0723,0.836,0.742,0.0,0.0978,-6.961,0.256,97.992,0.602,41.0
+125,Aya Nakamura,NAKAMURA,1.0,3aRgAfrt6aQW8IimLq2aVG,La dot,spotify:track:3aRgAfrt6aQW8IimLq2aVG,0.203,0.448,0.513,0.0,0.0947,-6.108,0.163,82.451,0.751,59.0
+126,Aya Nakamura,NAKAMURA,2.0,7sKDftgGirHWTVFMtJoDoh,Djadja,spotify:track:7sKDftgGirHWTVFMtJoDoh,0.0617,0.811,0.797,0.0,0.112,-5.428,0.165,97.988,0.541,75.0
+127,Aya Nakamura,NAKAMURA,3.0,7h0hP4GquuKsAXXuDUV1eq,Pompom,spotify:track:7h0hP4GquuKsAXXuDUV1eq,0.217,0.641,0.647,0.0,0.169,-6.447,0.533,119.841,0.636,53.0
+128,Aya Nakamura,NAKAMURA,4.0,1Bhm5HNO1cq8olDbBmokyL,Copines,spotify:track:1Bhm5HNO1cq8olDbBmokyL,0.27,0.701,0.787,0.0,0.105,-3.941,0.0855,180.027,0.904,64.0
+129,Aya Nakamura,NAKAMURA,5.0,2QpUWi6VSNOt2WyH5FIeLD,Pookie,spotify:track:2QpUWi6VSNOt2WyH5FIeLD,0.0718,0.912,0.598,1.12e-06,0.0892,-7.718,0.0877,98.006,0.533,69.0
+130,Aya Nakamura,NAKAMURA,6.0,0gMywbX34eJ7W8RW7i2Qo3,Ça fait mal,spotify:track:0gMywbX34eJ7W8RW7i2Qo3,0.277,0.711,0.632,0.0,0.103,-5.764,0.289,189.933,0.759,52.0
+131,Aya Nakamura,NAKAMURA,7.0,0xzZlIXDsXgC3kCPjRB1Rp,Faya,spotify:track:0xzZlIXDsXgC3kCPjRB1Rp,0.396,0.715,0.558,0.0,0.101,-8.694,0.203,89.921,0.552,50.0
+132,Aya Nakamura,NAKAMURA,8.0,5raFS0XhubxwCAm9brr5pS,Gangster,spotify:track:5raFS0XhubxwCAm9brr5pS,0.0867,0.651,0.691,0.0,0.0797,-6.781,0.0772,95.135,0.513,51.0
+133,Aya Nakamura,NAKAMURA,9.0,3qHs2PoiJMPvdxgyRSvqAl,Sucette (feat. Niska),spotify:track:3qHs2PoiJMPvdxgyRSvqAl,0.235,0.799,0.781,1.05e-06,0.0638,-6.115,0.128,189.954,0.672,56.0
+134,Aya Nakamura,NAKAMURA,10.0,5sX6wIVVYhHPqtsv3BXIpk,Whine Up,spotify:track:5sX6wIVVYhHPqtsv3BXIpk,0.0554,0.52,0.782,0.0,0.0618,-6.142,0.244,90.303,0.847,53.0
+135,Aya Nakamura,NAKAMURA,11.0,7ihLqNmG5BurdlCtdmhCPa,Gang (feat. Davido),spotify:track:7ihLqNmG5BurdlCtdmhCPa,0.168,0.881,0.693,1.06e-06,0.0848,-5.672,0.117,124.193,0.95,49.0
+136,Aya Nakamura,NAKAMURA,12.0,49pDvWX9ky9ipYMKI7Gacu,Dans ma bulle,spotify:track:49pDvWX9ky9ipYMKI7Gacu,0.439,0.846,0.315,0.000358,0.0992,-10.243,0.249,139.926,0.394,46.0
+137,Aya Nakamura,NAKAMURA,13.0,3yKHE0h9BUxpHZe1EqmJnX,Oula,spotify:track:3yKHE0h9BUxpHZe1EqmJnX,0.744,0.801,0.42,0.0,0.175,-9.512,0.0389,119.92,0.664,53.0
+138,Aya Nakamura,Journal intime,1.0,6L4RDIubtii4oSLJ1bfOkT,Angela,spotify:track:6L4RDIubtii4oSLJ1bfOkT,0.0841,0.76,0.719,1.96e-06,0.0389,-7.04,0.191,99.031,0.885,46.0
+139,Aya Nakamura,Journal intime,2.0,7tnDhHMCHWjwIsbVg7ex9S,Oumou Sangaré,spotify:track:7tnDhHMCHWjwIsbVg7ex9S,0.521,0.684,0.503,1.54e-05,0.159,-9.321,0.0517,111.949,0.771,46.0
+140,Aya Nakamura,Journal intime,3.0,6VyW2Pj1IgFlwOZuQx0fZk,Debout,spotify:track:6VyW2Pj1IgFlwOZuQx0fZk,0.156,0.64,0.494,0.0,0.258,-6.778,0.0399,85.05,0.498,33.0
+141,Aya Nakamura,Journal intime,4.0,38I7kUjout62xJYJsa3dkr,Karma,spotify:track:38I7kUjout62xJYJsa3dkr,0.0724,0.38,0.55,0.0,0.177,-8.383,0.268,176.247,0.133,45.0
+142,Aya Nakamura,Journal intime,5.0,1lqveconIDtlv7aCMyCUc5,Problèmes (feat. MHD),spotify:track:1lqveconIDtlv7aCMyCUc5,0.246,0.726,0.772,0.0,0.112,-8.127,0.118,126.004,0.719,52.0
+143,Aya Nakamura,Journal intime,6.0,2ffsmzPmhSoBpSSRVVdZXM,Réponds,spotify:track:2ffsmzPmhSoBpSSRVVdZXM,0.389,0.851,0.656,0.0,0.0782,-5.042,0.0457,130.032,0.348,34.0
+144,Aya Nakamura,Journal intime,7.0,4r3PBuiceOZyVkirJzinBM,Brisé,spotify:track:4r3PBuiceOZyVkirJzinBM,0.199,0.75,0.512,0.0,0.175,-9.189,0.14,113.284,0.834,50.0
+145,Aya Nakamura,Journal intime,8.0,6a3WblrDK54b4Mgf2YEdCs,Fuego (feat. Dadju),spotify:track:6a3WblrDK54b4Mgf2YEdCs,0.557,0.495,0.86,0.0,0.0632,-5.021,0.12,106.542,0.822,50.0
+146,Aya Nakamura,Journal intime,9.0,73W8J9unu2CEGALh9fZjyJ,Je n'ai pas besoin de toi,spotify:track:73W8J9unu2CEGALh9fZjyJ,0.0595,0.819,0.58,0.0,0.152,-7.069,0.133,130.009,0.375,49.0
+147,Aya Nakamura,Journal intime,10.0,2nOZaGwMYt07nXtIeYbEiu,Comportement,spotify:track:2nOZaGwMYt07nXtIeYbEiu,0.555,0.6,0.628,0.0,0.193,-6.273,0.392,118.512,0.875,52.0
+148,Aya Nakamura,Journal intime,11.0,77jfFVugaz41IwpWqoXsUh,Soirée parisienne (feat. Jizo Djohn.P),spotify:track:77jfFVugaz41IwpWqoXsUh,0.568,0.714,0.535,0.0,0.153,-6.065,0.0492,92.46,0.517,46.0
+149,Aya Nakamura,Journal intime,12.0,4fnImQF8UhoxlGejixtugQ,Jalousie (feat. Lartiste),spotify:track:4fnImQF8UhoxlGejixtugQ,0.105,0.731,0.742,0.0,0.234,-6.107,0.0314,127.004,0.915,37.0
+150,Aya Nakamura,Journal intime,13.0,3jOLrSDqyZfmTuKb6RDe5K,Papys,spotify:track:3jOLrSDqyZfmTuKb6RDe5K,0.0589,0.771,0.902,5.3e-05,0.065,-5.198,0.0758,104.047,0.328,35.0
+151,Aya Nakamura,Journal intime,14.0,5FHobwZFxHLFMPl6fcVg9W,Si tu savais,spotify:track:5FHobwZFxHLFMPl6fcVg9W,0.111,0.791,0.594,0.0,0.0692,-8.892,0.116,120.02,0.644,33.0
+152,Aya Nakamura,Journal intime,15.0,7ypQ1PtbClW0Aqe1ewS7h7,Orphelin (feat. Keblack),spotify:track:7ypQ1PtbClW0Aqe1ewS7h7,0.69,0.54,0.684,3.24e-05,0.28,-6.725,0.146,199.822,0.452,45.0
+153,Aya Nakamura,Journal intime,16.0,1iY78ruGT6iHtqubZlkpXi,Super héros (feat. Gradur),spotify:track:1iY78ruGT6iHtqubZlkpXi,0.0824,0.719,0.781,0.0,0.242,-5.179,0.0427,126.179,0.517,39.0
+154,Aya Nakamura,Journal intime,17.0,3ESrbpNWSVXaRZEdAIu4vv,Oublier,spotify:track:3ESrbpNWSVXaRZEdAIu4vv,0.00332,0.464,0.724,0.0,0.218,-6.469,0.0921,94.11,0.441,36.0
+155,Aya Nakamura,Journal intime,18.0,5j5zIg5kSsdwcQJPEmuQDC,J'ai mal (Pt. 2),spotify:track:5j5zIg5kSsdwcQJPEmuQDC,0.519,0.705,0.671,0.339,0.0696,-4.034,0.0369,111.999,0.783,50.0
+156,Aya Nakamura,Journal intime,19.0,0z8fheNkzUmPq77nP4kDFa,Moi,spotify:track:0z8fheNkzUmPq77nP4kDFa,0.38,0.844,0.766,0.0,0.0377,-4.458,0.0582,116.041,0.737,36.0
+0,Dadju,Poison Ou Antidote (Edition Miel Book),1.0,3xEiiUerGWAiT0IFXUG7eV,Amour toxic,spotify:track:3xEiiUerGWAiT0IFXUG7eV,0.796,0.718,0.416,1.85e-06,0.0992,-8.758,0.0675,132.074,0.642,57.0
+1,Dadju,Poison Ou Antidote (Edition Miel Book),2.0,1HDqaIxeJ70BTHgZWEuaeT,Dieu merci,spotify:track:1HDqaIxeJ70BTHgZWEuaeT,0.398,0.731,0.523,0.0,0.215,-7.183,0.0611,133.961,0.83,67.0
+2,Dadju,Poison Ou Antidote (Edition Miel Book),3.0,5azkSsarDXJRCNyX1ve6El,Jaloux remix,spotify:track:5azkSsarDXJRCNyX1ve6El,0.688,0.638,0.659,0.000107,0.171,-7.721,0.0425,130.072,0.387,55.0
+3,Dadju,Poison Ou Antidote (Edition Miel Book),4.0,3eqwBUWgebO3QOkyNhAXrD,Va dire à ton ex,spotify:track:3eqwBUWgebO3QOkyNhAXrD,0.582,0.672,0.601,3.43e-05,0.064,-10.743,0.0546,160.06,0.645,65.0
+4,Dadju,Poison Ou Antidote (Edition Miel Book),5.0,27Cc6W5wbfLgIzZGOM0LjU,Up And Down,spotify:track:27Cc6W5wbfLgIzZGOM0LjU,0.441,0.783,0.537,0.0,0.0869,-7.886,0.0682,141.956,0.706,55.0
+5,Dadju,Poison Ou Antidote (Edition Miel Book),6.0,1geM0WMvNMqfFz0zk87BaQ,Le Mâle Honnête,spotify:track:1geM0WMvNMqfFz0zk87BaQ,0.814,0.463,0.609,0.0,0.118,-7.719,0.16,89.914,0.484,59.0
+6,Dadju,Poison Ou Antidote (Edition Miel Book),7.0,1sq8GDisCLyT3b92HN1qba,Provoquer,spotify:track:1sq8GDisCLyT3b92HN1qba,0.53,0.602,0.706,0.0,0.0693,-7.206,0.308,62.038,0.733,58.0
+7,Dadju,Poison Ou Antidote (Edition Miel Book),8.0,4GIvavXJJ0k0NDR8j6ipnR,Elle me demande,spotify:track:4GIvavXJJ0k0NDR8j6ipnR,0.664,0.615,0.546,0.0,0.0612,-8.069,0.106,94.099,0.315,66.0
+8,Dadju,Poison Ou Antidote (Edition Miel Book),9.0,4iYMt5XmSwoPwzS8jTXEGQ,Piqûre de rappel,spotify:track:4iYMt5XmSwoPwzS8jTXEGQ,0.705,0.718,0.528,0.0,0.231,-7.639,0.0935,139.025,0.6,56.0
+9,Dadju,Poison Ou Antidote (Edition Miel Book),10.0,6h97mb7zqbWCoF9PP6EYGu,Tout ou rien du tout,spotify:track:6h97mb7zqbWCoF9PP6EYGu,0.589,0.595,0.532,0.0,0.152,-7.893,0.111,141.98,0.576,59.0
+10,Dadju,Poison Ou Antidote (Edition Miel Book),11.0,3LVxrBTPtVRgfJGETjLUjT,La roue tourne,spotify:track:3LVxrBTPtVRgfJGETjLUjT,0.89,0.661,0.424,0.0,0.0945,-9.137,0.0564,136.613,0.527,56.0
+11,Dadju,Poison Ou Antidote (Edition Miel Book),12.0,5LqG7GSvj3EzOUmFh5adrS,Grand bain,spotify:track:5LqG7GSvj3EzOUmFh5adrS,0.88,0.63,0.393,0.0,0.0894,-10.762,0.183,145.051,0.166,50.0
+12,Dadju,Poison Ou Antidote (Edition Miel Book),13.0,64cVLvfmblyiSUZpmo7xnp,Confessions,spotify:track:64cVLvfmblyiSUZpmo7xnp,0.218,0.78,0.607,0.0,0.349,-5.974,0.0381,122.988,0.308,49.0
+13,Dadju,Poison Ou Antidote (Edition Miel Book),14.0,3s8CdT7NYTu5hGSe30KJ2q,Toi d'abord,spotify:track:3s8CdT7NYTu5hGSe30KJ2q,0.133,0.737,0.671,0.0,0.0967,-6.016,0.0373,96.995,0.597,48.0
+14,Dadju,Poison Ou Antidote (Edition Miel Book),15.0,21igVEeZtl3CTv0spI14QT,Papa,spotify:track:21igVEeZtl3CTv0spI14QT,0.0866,0.489,0.603,0.0,0.0982,-5.206,0.116,105.26,0.569,47.0
+15,Dadju,Poison Ou Antidote (Edition Miel Book),16.0,2MiJ4Xx7wiQ5qoTeVQqQMO,Compliqué,spotify:track:2MiJ4Xx7wiQ5qoTeVQqQMO,0.55,0.633,0.747,0.0,0.165,-6.546,0.0553,74.784,0.927,47.0
+16,Dadju,Poison Ou Antidote (Edition Miel Book),17.0,3Eq0Na1cKRUu0BxLSTGbPY,Bobo au cœur,spotify:track:3Eq0Na1cKRUu0BxLSTGbPY,0.0772,0.818,0.604,0.0,0.32,-5.569,0.0661,97.978,0.544,48.0
+17,Dadju,Poison Ou Antidote (Edition Miel Book),18.0,6TnrztYMUfn1Z6P2GK0xm9,Jure-le,spotify:track:6TnrztYMUfn1Z6P2GK0xm9,0.0126,0.646,0.808,0.0,0.0598,-6.053,0.0745,95.839,0.7,45.0
+18,Dadju,Poison Ou Antidote (Edition Miel Book),19.0,5QPd4f80rLPz96DoHYeOeY,Please,spotify:track:5QPd4f80rLPz96DoHYeOeY,0.373,0.638,0.562,0.0,0.1,-8.286,0.0616,79.54,0.378,47.0
+19,Dadju,Poison Ou Antidote (Edition Miel Book),20.0,1jauFKSCAGiUe8WgWI2uM6,Paire d'As,spotify:track:1jauFKSCAGiUe8WgWI2uM6,0.156,0.377,0.738,0.0,0.0923,-7.019,0.228,86.049,0.291,47.0
+20,Dadju,Poison Ou Antidote (Edition Miel Book),21.0,0K9tjkL5Uc5dtgMa3f8TJ9,Ma vie,spotify:track:0K9tjkL5Uc5dtgMa3f8TJ9,0.12,0.508,0.5,0.0,0.137,-8.11,0.0864,200.521,0.289,45.0
+21,Dadju,Poison Ou Antidote (Edition Miel Book),22.0,28Da5seWVyVyeLWeskDziF,Mémoire courte,spotify:track:28Da5seWVyVyeLWeskDziF,0.176,0.691,0.718,0.0,0.0852,-5.596,0.128,98.6,0.682,46.0
+22,Dadju,Poison Ou Antidote (Edition Miel Book),23.0,02ih0HNGcPu6HqzEgnqPoo,Perdu,spotify:track:02ih0HNGcPu6HqzEgnqPoo,0.000924,0.568,0.595,0.0,0.079,-6.23,0.148,145.782,0.346,46.0
+23,Dadju,Poison Ou Antidote (Edition Miel Book),24.0,5wPhcQijcLkNOWhxZme6Vu,TPB,spotify:track:5wPhcQijcLkNOWhxZme6Vu,0.105,0.83,0.641,0.0,0.166,-6.216,0.253,128.077,0.581,44.0
+24,Dadju,Poison Ou Antidote (Edition Miel Book),25.0,1cxJ5ZUhoJ4TQ04tyuz1pC,Ma faute,spotify:track:1cxJ5ZUhoJ4TQ04tyuz1pC,0.247,0.665,0.588,1.89e-05,0.108,-6.752,0.0626,97.017,0.58,45.0
+25,Dadju,Poison Ou Antidote (Edition Miel Book),26.0,5xGjXsdlc8QvY8fu5ztlCX,Je ne t'aime plus,spotify:track:5xGjXsdlc8QvY8fu5ztlCX,0.0816,0.486,0.643,0.0,0.313,-7.378,0.0501,160.016,0.376,47.0
+26,Dadju,Poison Ou Antidote (Edition Miel Book),27.0,41gfVW5FpU1Tz2wjMBkXYn,Normal,spotify:track:41gfVW5FpU1Tz2wjMBkXYn,0.107,0.82,0.623,0.0,0.1,-6.639,0.0375,122.044,0.679,45.0
+27,Dadju,Poison Ou Antidote (Edition Miel Book),28.0,5rGeJe6p0uShbcFt9G9IML,Cette femme,spotify:track:5rGeJe6p0uShbcFt9G9IML,0.0352,0.754,0.712,0.0,0.336,-6.348,0.159,104.062,0.718,45.0
+28,Dadju,Poison Ou Antidote (Edition Miel Book),29.0,3Ft6a68ZnPCmEWt5zThmkv,Promesse,spotify:track:3Ft6a68ZnPCmEWt5zThmkv,0.179,0.727,0.548,0.0,0.254,-6.969,0.135,149.061,0.288,44.0
+29,Dadju,Poison Ou Antidote (Edition Miel Book),30.0,6H7T3E1yHauVlpHTGAanoW,Robe,spotify:track:6H7T3E1yHauVlpHTGAanoW,0.227,0.78,0.636,0.0,0.0988,-7.28,0.096,93.003,0.283,45.0
+30,Dadju,Poison Ou Antidote (Edition Miel Book),31.0,6WOK1I1aaXbprepdywFcL8,Back It Up,spotify:track:6WOK1I1aaXbprepdywFcL8,0.491,0.677,0.666,0.0,0.228,-6.271,0.0889,171.962,0.85,44.0
+31,Dadju,Poison Ou Antidote (Edition Miel Book),32.0,6Y2k4wrho183Pn6PlSpaSh,Donne-moi l’accord,spotify:track:6Y2k4wrho183Pn6PlSpaSh,0.252,0.843,0.831,0.0,0.0915,-6.489,0.0518,99.059,0.916,47.0
+32,Dadju,Poison Ou Antidote (Edition Miel Book),33.0,2F21NLz38QQRCVyuQ5mk6C,Wouli Liya,spotify:track:2F21NLz38QQRCVyuQ5mk6C,0.239,0.557,0.718,0.0,0.234,-5.732,0.0511,94.88,0.536,45.0
+33,Dadju,Poison Ou Antidote (Edition Miel Book),34.0,3nNdk1qnPntR3eUcyb9SIb,Loin,spotify:track:3nNdk1qnPntR3eUcyb9SIb,0.349,0.705,0.601,0.0,0.114,-7.066,0.161,139.966,0.536,42.0
+34,Dadju,Poison Ou Antidote (Edition Miel Book),35.0,3ThmfofYB4Q7U1GJetC4Rq,Interdit,spotify:track:3ThmfofYB4Q7U1GJetC4Rq,0.234,0.737,0.668,0.0,0.137,-6.746,0.0371,96.983,0.357,43.0
+35,Dadju,Poison Ou Antidote (Edition Miel Book),36.0,5NWhIbEtB9KXsWcoUZnMHc,Nous,spotify:track:5NWhIbEtB9KXsWcoUZnMHc,0.092,0.646,0.604,0.0,0.103,-7.099,0.416,202.008,0.807,44.0
+36,Dadju,Poison Ou Antidote (Edition Miel Book),37.0,1zyTE0OJQMcTzgdixH8Mli,Vite ou doucement,spotify:track:1zyTE0OJQMcTzgdixH8Mli,0.0478,0.635,0.641,0.0,0.366,-6.46,0.0803,156.174,0.845,43.0
+37,Dadju,Poison Ou Antidote (Edition Miel Book),38.0,26NKhkfK7kjELFpSb3QjJL,Danger,spotify:track:26NKhkfK7kjELFpSb3QjJL,0.387,0.778,0.636,1.73e-06,0.0834,-7.895,0.255,99.94,0.58,43.0
+38,Dadju,Poison Ou Antidote (Edition Miel Book),39.0,5CXPuIxjrfTdtlPdWB3mMG,Ma Woman,spotify:track:5CXPuIxjrfTdtlPdWB3mMG,0.0139,0.535,0.712,3.45e-06,0.141,-7.216,0.155,196.059,0.64,46.0
+39,Dadju,Poison Ou Antidote (Edition Miel Book),40.0,72Ggmr4Z1uZJFFDivlhHSs,Maamou,spotify:track:72Ggmr4Z1uZJFFDivlhHSs,0.593,0.526,0.612,0.0,0.109,-6.351,0.0561,78.921,0.739,44.0
+40,Dadju,Poison Ou Antidote (Edition Miel Book),41.0,5GIZaeQeGo2iIH6vvHIuPk,Mwasi Ya Congo,spotify:track:5GIZaeQeGo2iIH6vvHIuPk,0.233,0.44,0.653,0.0,0.247,-5.832,0.0763,92.069,0.586,43.0
+41,Dadju,Poison Ou Antidote,1.0,70APCdHsWV5BEsacwjzXmd,Amour toxic,spotify:track:70APCdHsWV5BEsacwjzXmd,0.796,0.718,0.416,1.85e-06,0.0992,-8.758,0.0675,132.074,0.642,73.0
+42,Dadju,Poison Ou Antidote,2.0,0W4MOQ2kTOm1y7ooahgQP1,Grand bain,spotify:track:0W4MOQ2kTOm1y7ooahgQP1,0.88,0.63,0.393,0.0,0.0894,-10.762,0.183,145.051,0.166,69.0
+43,Dadju,Poison Ou Antidote,3.0,4TF4daRIIWgq4ZTVSV7dcI,Confessions,spotify:track:4TF4daRIIWgq4ZTVSV7dcI,0.218,0.78,0.607,0.0,0.349,-5.974,0.0381,122.988,0.308,46.0
+44,Dadju,Poison Ou Antidote,4.0,0MEI0XbtyZ0S2RwQ8giCFA,Toi d'abord,spotify:track:0MEI0XbtyZ0S2RwQ8giCFA,0.133,0.737,0.671,0.0,0.0967,-6.016,0.0373,96.995,0.597,43.0
+45,Dadju,Poison Ou Antidote,5.0,17LYpQkhfTwBQmCJWDoLl7,Papa,spotify:track:17LYpQkhfTwBQmCJWDoLl7,0.0866,0.489,0.603,0.0,0.0982,-5.206,0.116,105.26,0.569,41.0
+46,Dadju,Poison Ou Antidote,6.0,6VtG4p0It4nM0aStU46hEl,Compliqué,spotify:track:6VtG4p0It4nM0aStU46hEl,0.55,0.633,0.747,0.0,0.165,-6.546,0.0553,74.784,0.927,58.0
+47,Dadju,Poison Ou Antidote,7.0,2XlLHcTNLBkxqCdKasBrRM,Bobo au cœur,spotify:track:2XlLHcTNLBkxqCdKasBrRM,0.0772,0.818,0.604,0.0,0.32,-5.569,0.0661,97.978,0.544,62.0
+48,Dadju,Poison Ou Antidote,8.0,2H0vTEpmxgNrfCS0jOG5LY,Jure-le,spotify:track:2H0vTEpmxgNrfCS0jOG5LY,0.0126,0.646,0.808,0.0,0.0598,-6.053,0.0745,95.839,0.7,40.0
+49,Dadju,Poison Ou Antidote,9.0,0pN9C2JslTAE8Cn4EATExg,Please,spotify:track:0pN9C2JslTAE8Cn4EATExg,0.373,0.638,0.562,0.0,0.1,-8.286,0.0616,79.54,0.378,41.0
+50,Dadju,Poison Ou Antidote,10.0,2tuZqBLMaTBsFUcnMwFJDs,Paire d'As,spotify:track:2tuZqBLMaTBsFUcnMwFJDs,0.156,0.377,0.738,0.0,0.0923,-7.019,0.228,86.049,0.291,48.0
+51,Dadju,Poison Ou Antidote,11.0,04c9W375VlrbMF7P03CyWA,Ma vie,spotify:track:04c9W375VlrbMF7P03CyWA,0.12,0.508,0.5,0.0,0.137,-8.11,0.0864,200.521,0.289,55.0
+52,Dadju,Poison Ou Antidote,12.0,5l58QPPxez87TPTdB4BpDC,Mémoire courte,spotify:track:5l58QPPxez87TPTdB4BpDC,0.176,0.691,0.718,0.0,0.0852,-5.596,0.128,98.6,0.682,43.0
+53,Dadju,Poison Ou Antidote,13.0,2K4HLYJJeIWmdxnwPkDQ5Y,Perdu,spotify:track:2K4HLYJJeIWmdxnwPkDQ5Y,0.000924,0.568,0.595,0.0,0.079,-6.23,0.148,145.782,0.346,43.0
+54,Dadju,Poison Ou Antidote,14.0,1N4vq87LTzHKDF6judMHsG,TPB,spotify:track:1N4vq87LTzHKDF6judMHsG,0.105,0.83,0.641,0.0,0.166,-6.216,0.253,128.077,0.581,49.0
+55,Dadju,Poison Ou Antidote,15.0,37ruCT2jGQpZiPq9g1hv8P,Ma faute,spotify:track:37ruCT2jGQpZiPq9g1hv8P,0.247,0.665,0.588,1.89e-05,0.108,-6.752,0.0626,97.017,0.58,43.0
+56,Dadju,Poison Ou Antidote,16.0,4x5UoACiDpFjqi2sMgB2QQ,Je ne t'aime plus,spotify:track:4x5UoACiDpFjqi2sMgB2QQ,0.0816,0.486,0.643,0.0,0.313,-7.378,0.0501,160.016,0.376,49.0
+57,Dadju,Poison Ou Antidote,17.0,4MKLEGlbjQrjD9klo60wfe,Normal,spotify:track:4MKLEGlbjQrjD9klo60wfe,0.107,0.82,0.623,0.0,0.1,-6.639,0.0375,122.044,0.679,41.0
+58,Dadju,Poison Ou Antidote,18.0,1xHqLRzkyHhWUpGBz5oabk,Cette femme,spotify:track:1xHqLRzkyHhWUpGBz5oabk,0.0352,0.754,0.712,0.0,0.336,-6.348,0.159,104.062,0.718,41.0
+59,Dadju,Poison Ou Antidote,19.0,11OQOw169ssynLNG7aYhYq,Promesse,spotify:track:11OQOw169ssynLNG7aYhYq,0.179,0.727,0.548,0.0,0.254,-6.969,0.135,149.061,0.288,39.0
+60,Dadju,Poison Ou Antidote,20.0,1eRXH7OCKXGmqRcZLd0dbH,Robe,spotify:track:1eRXH7OCKXGmqRcZLd0dbH,0.227,0.78,0.636,0.0,0.0988,-7.28,0.096,93.003,0.283,47.0
+61,Dadju,Poison Ou Antidote,21.0,2LKRpB6YTz0MUqbhJoqNCg,Back It Up,spotify:track:2LKRpB6YTz0MUqbhJoqNCg,0.491,0.677,0.666,0.0,0.228,-6.271,0.0889,171.962,0.85,39.0
+62,Dadju,Poison Ou Antidote,22.0,0F3K1nFNG6ZecPHUCh6YlV,Donne-moi l’accord,spotify:track:0F3K1nFNG6ZecPHUCh6YlV,0.252,0.843,0.831,0.0,0.0915,-6.489,0.0518,99.059,0.916,58.0
+63,Dadju,Poison Ou Antidote,23.0,1p3pNSpRB88Dn6w0DQGQXr,Wouli Liya,spotify:track:1p3pNSpRB88Dn6w0DQGQXr,0.239,0.557,0.718,0.0,0.234,-5.732,0.0511,94.88,0.536,58.0
+64,Dadju,Poison Ou Antidote,24.0,75Bb4GJE5XEJ8UciE39cvy,Loin,spotify:track:75Bb4GJE5XEJ8UciE39cvy,0.349,0.705,0.601,0.0,0.114,-7.066,0.161,139.966,0.536,36.0
+65,Dadju,Poison Ou Antidote,25.0,4dH9yDtF83Xb2fZ70GCSso,Interdit,spotify:track:4dH9yDtF83Xb2fZ70GCSso,0.234,0.737,0.668,0.0,0.137,-6.746,0.0371,96.983,0.357,37.0
+66,Dadju,Poison Ou Antidote,26.0,4jikdppXkmmK7t0McezRY2,Nous,spotify:track:4jikdppXkmmK7t0McezRY2,0.092,0.646,0.604,0.0,0.103,-7.099,0.416,202.008,0.807,38.0
+67,Dadju,Poison Ou Antidote,27.0,5hP5HoUsYpQAaKDQeRdDtZ,Vite ou doucement,spotify:track:5hP5HoUsYpQAaKDQeRdDtZ,0.0478,0.635,0.641,0.0,0.366,-6.46,0.0803,156.174,0.845,37.0
+68,Dadju,Poison Ou Antidote,28.0,1WiWookeOBfCUqY4vXbx3S,Danger,spotify:track:1WiWookeOBfCUqY4vXbx3S,0.387,0.778,0.636,1.73e-06,0.0834,-7.895,0.255,99.94,0.58,38.0
+69,Dadju,Poison Ou Antidote,29.0,5iGe8PpcTXAtnWmgDxhihn,Ma Woman,spotify:track:5iGe8PpcTXAtnWmgDxhihn,0.0139,0.535,0.712,3.45e-06,0.141,-7.216,0.155,196.059,0.64,47.0
+70,Dadju,Poison Ou Antidote,30.0,6HDCMTybYlNlDuu1V2Z1CI,Maamou,spotify:track:6HDCMTybYlNlDuu1V2Z1CI,0.593,0.526,0.612,0.0,0.109,-6.351,0.0561,78.921,0.739,42.0
+71,Dadju,Poison Ou Antidote,31.0,4YtrllFpcXOkbYEAkXOIef,Mwasi Ya Congo,spotify:track:4YtrllFpcXOkbYEAkXOIef,0.233,0.44,0.653,0.0,0.247,-5.832,0.0763,92.069,0.586,42.0
+72,Dadju,Gentleman 2.0 (Réédition),1.0,6tM3yP544QpBukoaNf3LlC,Gentleman 2.0 - Intro,spotify:track:6tM3yP544QpBukoaNf3LlC,0.911,0.395,0.321,0.000104,0.0871,-13.696,0.0631,126.617,0.289,26.0
+73,Dadju,Gentleman 2.0 (Réédition),2.0,2xOwcGoy7JRCKFSLMoDxF1,Lionne,spotify:track:2xOwcGoy7JRCKFSLMoDxF1,0.006,0.758,0.657,0.0,0.19,-6.788,0.055,100.004,0.52,35.0
+74,Dadju,Gentleman 2.0 (Réédition),3.0,6KJsnCmfJkXDKhYm3NFwwf,Déjà trouvé,spotify:track:6KJsnCmfJkXDKhYm3NFwwf,0.249,0.849,0.543,0.0,0.0817,-5.464,0.06,104.952,0.869,34.0
+75,Dadju,Gentleman 2.0 (Réédition),4.0,3fvRY0zhmWIlqCsykt5Dfb,Oublie-le,spotify:track:3fvRY0zhmWIlqCsykt5Dfb,0.176,0.637,0.687,0.0,0.124,-7.377,0.216,113.142,0.5,34.0
+76,Dadju,Gentleman 2.0 (Réédition),5.0,4GCwwGStDEIQQWqUigg4Sa,Trouvez-la moi,spotify:track:4GCwwGStDEIQQWqUigg4Sa,0.225,0.693,0.771,0.0,0.349,-5.79,0.0861,93.03,0.721,34.0
+77,Dadju,Gentleman 2.0 (Réédition),6.0,23QHbWk3XFohiksnkYAwta,Reine,spotify:track:23QHbWk3XFohiksnkYAwta,0.76,0.399,0.395,0.0,0.0815,-10.782,0.0593,98.174,0.704,37.0
+78,Dadju,Gentleman 2.0 (Réédition),7.0,4qiNyYRmVxlLSeJrXnqe71,Jenny,spotify:track:4qiNyYRmVxlLSeJrXnqe71,0.25,0.763,0.58,0.0,0.0899,-9.245,0.102,114.069,0.329,31.0
+79,Dadju,Gentleman 2.0 (Réédition),8.0,0CNjlJCQtVCOK4ZIlfp8NJ,Bob Marley,spotify:track:0CNjlJCQtVCOK4ZIlfp8NJ,0.104,0.651,0.616,0.0,0.109,-7.467,0.222,89.977,0.568,36.0
+80,Dadju,Gentleman 2.0 (Réédition),9.0,73mk0RwuNSfVonjSi83Csb,Sous contrôle,spotify:track:73mk0RwuNSfVonjSi83Csb,0.328,0.676,0.729,0.0,0.106,-6.172,0.235,145.987,0.712,33.0
+81,Dadju,Gentleman 2.0 (Réédition),10.0,1wUMR05vo4y1igAW75xBRD,Déjà donné,spotify:track:1wUMR05vo4y1igAW75xBRD,0.357,0.702,0.641,0.0,0.0965,-6.727,0.2,129.971,0.786,30.0
+82,Dadju,Gentleman 2.0 (Réédition),11.0,1Dg2r0DNXdxCsQIFWd0I77,J'ai dit non,spotify:track:1Dg2r0DNXdxCsQIFWd0I77,0.317,0.642,0.754,0.0,0.139,-5.524,0.0639,149.911,0.798,31.0
+83,Dadju,Gentleman 2.0 (Réédition),12.0,4VcJPFLAuObT3JJuW1zLM4,Par amour,spotify:track:4VcJPFLAuObT3JJuW1zLM4,0.51,0.566,0.653,0.0,0.117,-6.349,0.0873,120.056,0.72,35.0
+84,Dadju,Gentleman 2.0 (Réédition),13.0,6ooWNMrAHQ46Ghdn7S2Xx4,Monica,spotify:track:6ooWNMrAHQ46Ghdn7S2Xx4,0.142,0.7,0.574,0.0,0.336,-6.144,0.118,88.928,0.255,28.0
+85,Dadju,Gentleman 2.0 (Réédition),14.0,1lm7TJmrJvM7lBsGX8tVNR,#PTD,spotify:track:1lm7TJmrJvM7lBsGX8tVNR,0.588,0.814,0.469,0.0,0.0776,-9.715,0.0676,123.966,0.381,30.0
+86,Dadju,Gentleman 2.0 (Réédition),15.0,6uRywZNdGP6tOVVRAIfxVR,Django,spotify:track:6uRywZNdGP6tOVVRAIfxVR,0.391,0.611,0.586,0.0,0.222,-6.785,0.259,195.884,0.732,35.0
+87,Dadju,Gentleman 2.0 (Réédition),16.0,33YWOT3zVOcd9W3DzdWgok,Intuition,spotify:track:33YWOT3zVOcd9W3DzdWgok,0.16,0.735,0.652,0.0,0.0576,-6.109,0.208,102.072,0.541,32.0
+88,Dadju,Gentleman 2.0 (Réédition),17.0,0wyqYbFbmaXlmWOfbvCzEt,Ma fierté,spotify:track:0wyqYbFbmaXlmWOfbvCzEt,0.303,0.622,0.727,0.0,0.108,-6.293,0.353,62.076,0.675,32.0
+89,Dadju,Gentleman 2.0 (Réédition),18.0,7BLVeUk0Sqx9vEcszxmbCX,Comme si de rien n'était,spotify:track:7BLVeUk0Sqx9vEcszxmbCX,0.323,0.745,0.661,0.0,0.0925,-5.491,0.143,107.974,0.662,34.0
+90,Dadju,Gentleman 2.0 (Réédition),19.0,3uOLwDEINZuUr8KcAIxxNm,Seconde chance,spotify:track:3uOLwDEINZuUr8KcAIxxNm,0.638,0.521,0.247,0.0,0.0882,-8.393,0.0327,74.41,0.401,33.0
+91,Dadju,Gentleman 2.0 (Réédition),20.0,6vBohuKvpwU8RWcZrbPlNJ,Comme à chaque fois,spotify:track:6vBohuKvpwU8RWcZrbPlNJ,0.594,0.675,0.646,0.0,0.186,-5.444,0.272,85.966,0.705,36.0
+92,Dadju,Gentleman 2.0 (Réédition),21.0,23HWROhVKk85pUoyn8ShOe,Escort,spotify:track:23HWROhVKk85pUoyn8ShOe,0.257,0.544,0.762,0.0,0.0757,-6.685,0.276,179.807,0.64,35.0
+93,Dadju,Gentleman 2.0 (Réédition),22.0,3Om2wIrcv01zMFpTytICdy,Une fois mais pas deux,spotify:track:3Om2wIrcv01zMFpTytICdy,0.59,0.723,0.524,0.0,0.136,-5.033,0.127,74.94,0.427,32.0
+94,Dadju,Gentleman 2.0 (Réédition),23.0,4sgnTQggcrgn2F8RFjShaH,Mafuzzy Style,spotify:track:4sgnTQggcrgn2F8RFjShaH,0.256,0.709,0.838,0.0,0.0713,-3.706,0.0668,106.022,0.833,53.0
+95,Dadju,Gentleman 2.0 (Réédition),24.0,4z1gMvWV2ofN66kDuieHMq,Jaloux,spotify:track:4z1gMvWV2ofN66kDuieHMq,0.193,0.558,0.797,0.0,0.399,-3.89,0.0739,139.992,0.368,61.0
+96,Dadju,Gentleman 2.0 (Réédition),25.0,0JZOJlS4XyezSvkEylRsg6,Mon cœur à ta taille,spotify:track:0JZOJlS4XyezSvkEylRsg6,0.616,0.578,0.765,8.09e-06,0.0989,-4.505,0.223,173.738,0.634,42.0
+97,Dadju,Gentleman 2.0 (Réédition),26.0,6k2IKdRMmVJByghJrelzFM,Sans thème,spotify:track:6k2IKdRMmVJByghJrelzFM,0.355,0.576,0.675,0.0,0.068,-4.003,0.186,139.809,0.732,33.0
+98,Dadju,Gentleman 2.0 (Réédition),27.0,5GE45RTlt0COoqSkPONMwb,Sans thème - Remix,spotify:track:5GE45RTlt0COoqSkPONMwb,0.132,0.532,0.893,0.0,0.332,-3.007,0.156,114.938,0.841,48.0
+99,Dadju,Gentleman 2.0 (Réédition),28.0,0gwRr4yXijOUI0nu4DakPh,Tu n'es pas moi,spotify:track:0gwRr4yXijOUI0nu4DakPh,0.523,0.596,0.715,0.0,0.178,-5.478,0.215,97.58,0.629,44.0
+100,Dadju,Gentleman 2.0 (Réédition),29.0,0tqSYdv6jdrjIe8qsLRr8r,Christina,spotify:track:0tqSYdv6jdrjIe8qsLRr8r,0.105,0.598,0.7,0.0,0.0708,-6.25,0.106,104.771,0.568,39.0
+101,Dadju,Gentleman 2.0 (Réédition),30.0,3osu83MB6rMjtFYxsiOr6g,Jaloux - Version acoustique,spotify:track:3osu83MB6rMjtFYxsiOr6g,0.698,0.703,0.447,0.0,0.14,-5.625,0.0617,140.013,0.528,34.0
+102,Dadju,Gentleman 2.0,1.0,1FDxHRPEMJGqLcomSjWONI,Gentleman 2.0 - Intro,spotify:track:1FDxHRPEMJGqLcomSjWONI,0.911,0.395,0.321,0.000104,0.0871,-13.696,0.0631,126.617,0.289,37.0
+103,Dadju,Gentleman 2.0,2.0,3n3yFT4dGJuDRsF9mxdgc1,Lionne,spotify:track:3n3yFT4dGJuDRsF9mxdgc1,0.006,0.758,0.657,0.0,0.19,-6.788,0.055,100.004,0.52,54.0
+104,Dadju,Gentleman 2.0,3.0,6VIP3K7z1R5t7FWirkqc3U,Déjà trouvé,spotify:track:6VIP3K7z1R5t7FWirkqc3U,0.249,0.849,0.543,0.0,0.0817,-5.464,0.06,104.952,0.869,49.0
+105,Dadju,Gentleman 2.0,4.0,1XPGoMhSvUIrv7zKG5Vi3y,Oublie-le,spotify:track:1XPGoMhSvUIrv7zKG5Vi3y,0.176,0.637,0.687,0.0,0.124,-7.377,0.216,113.142,0.5,47.0
+106,Dadju,Gentleman 2.0,5.0,2HNpvUvyU9kYl41uha8cP7,Trouvez-la moi,spotify:track:2HNpvUvyU9kYl41uha8cP7,0.225,0.693,0.771,0.0,0.349,-5.79,0.0861,93.03,0.721,50.0
+107,Dadju,Gentleman 2.0,6.0,1bxP4M9ICllcg7mel8kH89,Reine,spotify:track:1bxP4M9ICllcg7mel8kH89,0.76,0.399,0.395,0.0,0.0815,-10.782,0.0593,98.174,0.704,65.0
+108,Dadju,Gentleman 2.0,7.0,7I889W9Z43oyKVqTeIcn3U,Jenny,spotify:track:7I889W9Z43oyKVqTeIcn3U,0.25,0.763,0.58,0.0,0.0899,-9.245,0.102,114.069,0.329,43.0
+109,Dadju,Gentleman 2.0,8.0,2qXmVc811574AdIdDgayRP,Bob Marley,spotify:track:2qXmVc811574AdIdDgayRP,0.104,0.651,0.616,0.0,0.109,-7.467,0.222,89.977,0.568,58.0
+110,Dadju,Gentleman 2.0,9.0,40gyeYU1e0NCe12fQn4ak1,Sous contrôle,spotify:track:40gyeYU1e0NCe12fQn4ak1,0.328,0.676,0.729,0.0,0.106,-6.172,0.235,145.987,0.712,50.0
+111,Dadju,Gentleman 2.0,10.0,42kJGka9qce8csSCia86Dh,Déjà donné,spotify:track:42kJGka9qce8csSCia86Dh,0.357,0.702,0.641,0.0,0.0965,-6.727,0.2,129.971,0.786,42.0
+112,Dadju,Gentleman 2.0,11.0,2ACf6kwYf1B3NjSEIM8RjL,J'ai dit non,spotify:track:2ACf6kwYf1B3NjSEIM8RjL,0.317,0.642,0.754,0.0,0.139,-5.524,0.0639,149.91,0.798,43.0
+113,Dadju,Gentleman 2.0,12.0,7vaHVmMKvajDN4IwtNslnI,Par amour,spotify:track:7vaHVmMKvajDN4IwtNslnI,0.51,0.566,0.653,0.0,0.117,-6.349,0.0873,120.056,0.72,55.0
+114,Dadju,Gentleman 2.0,13.0,1VVOOk6L2nFzZKakKIAM8E,Monica,spotify:track:1VVOOk6L2nFzZKakKIAM8E,0.142,0.7,0.574,0.0,0.336,-6.144,0.118,88.928,0.255,39.0
+115,Dadju,Gentleman 2.0,14.0,7u059oHRxmsOru0pOIHPbo,#PTD,spotify:track:7u059oHRxmsOru0pOIHPbo,0.588,0.814,0.469,0.0,0.0776,-9.715,0.0676,123.966,0.381,42.0
+116,Dadju,Gentleman 2.0,15.0,14hLSMLJ86sHRklJ62tH58,Django,spotify:track:14hLSMLJ86sHRklJ62tH58,0.391,0.611,0.586,0.0,0.222,-6.785,0.259,195.884,0.732,59.0
+117,Dadju,Gentleman 2.0,16.0,1NLlpgXQ8fyPrlUQiiJkAL,Intuition,spotify:track:1NLlpgXQ8fyPrlUQiiJkAL,0.16,0.735,0.652,0.0,0.0576,-6.109,0.208,102.072,0.541,44.0
+118,Dadju,Gentleman 2.0,17.0,5RwHeVb6D4iQSeRtjIkg1M,Ma fierté,spotify:track:5RwHeVb6D4iQSeRtjIkg1M,0.303,0.622,0.727,0.0,0.108,-6.293,0.353,62.076,0.675,46.0
+119,Dadju,Gentleman 2.0,18.0,4NfOuhoKx2VR17NhxQtlQG,Comme si de rien n'était,spotify:track:4NfOuhoKx2VR17NhxQtlQG,0.323,0.745,0.661,0.0,0.0925,-5.491,0.143,107.975,0.662,50.0
+120,Dadju,Gentleman 2.0,19.0,55yCOgFW7Q0QSaJk6qXASV,Seconde chance,spotify:track:55yCOgFW7Q0QSaJk6qXASV,0.638,0.521,0.247,0.0,0.0882,-8.393,0.0327,74.412,0.401,46.0
