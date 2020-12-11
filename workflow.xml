@@ -25,7 +25,7 @@
             <master>${master}</master>
             <mode>${mode}</mode>
             <name>test</name>
-            <jar>${app_path}/jobs/test_udf.py</jar>
+            <jar>${app_path}/jobs/Extr_load_spotify.py</jar>
             <spark-opts> --master yarn --conf spark.scheduler.mode=FAIR --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
         </spark>
         <ok to="End"/>
