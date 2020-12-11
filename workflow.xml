@@ -30,7 +30,7 @@
             <mode>${mode}</mode>
             <name>test</name>
             <jar>${app_path}/jobs/Extr_load_spotify.py</jar>
-            <spark-opts>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/spark-submit --master yarn --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
+            <spark-opts>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python --master yarn --driver-memory=2g --executor-memory=2g --num-executors=2</spark-opts>
         </spark>
         <ok to="End"/>
         <error to="Kill"/>
