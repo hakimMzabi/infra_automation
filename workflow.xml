@@ -1,6 +1,6 @@
 <workflow-app name='test workfow' xmlns="uri:oozie:workflow:0.5">
-    <start to='spark_test'/>
-    <action name='spark_test'>
+    <start to='shell_test'/>
+   <!-- <action name='spark_test'>
          <spark xmlns="uri:oozie:spark-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
@@ -34,8 +34,8 @@
         </spark>
         <ok to="End"/>
         <error to="Kill"/>
-    </action>
-      <!--<action name='shell_test'>
+    </action>!-->
+      <action name='shell_test'>
       <shell xmlns="uri:oozie:shell-action:0.1">
             <job-tracker>${jobTracker}</job-tracker>
             <name-node>${nameNode}</name-node>
@@ -53,17 +53,12 @@
                     <value>1024</value>
                 </property>
             </configuration>
-            <exec>test.sh</exec>
-            <argument>${data_path}</argument>
-            <argument>${avrotools_filename}</argument>
-            <argument>${schema_path}</argument>
-            <file>${app_path}/test/test.sh</file>
-            <file>${jar_path}/${avrotools_filename}</file>
+            <exec>deploy_job.sh</exec>
         </shell>
 
         <ok to="End"/>
         <error to="Kill"/>
-    </action> !-->
+    </action>
     <kill name='Kill'>
         <message>job failed: ${wf:errorCode('wordcount')}</message>
     </kill>
