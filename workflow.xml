@@ -15,7 +15,7 @@
                 </property>
                  <property>
                     <name>oozie.launcher.mapreduce.map.env</name>
-                    <value>${python_lib}</value>
+                    <value>PYSPARK_PYTHON=/root/.conda/envs/iabd1/bin/python</value>
                 </property>
                 <property>
                     <name>oozie.use.system.libpath</name>
