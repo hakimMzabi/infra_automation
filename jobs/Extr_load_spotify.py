@@ -3,11 +3,7 @@ from pyspark.sql import SQLContext
 from pyspark.sql.types import *
 import os
 import sys
-from pandas.io import json
 
-import pandas as pd
-import time
-import numpy as np
 
 
 spark = SparkSession.builder \
@@ -19,6 +15,11 @@ spotify_data_lake = "hdfs://d271ee89-3c06-4d40-b9d6-d3c1d65feb57.priv.instances.
 
 
 def main():
+    from pandas.io import json
+
+    import pandas as pd
+    import time
+    import numpy as np
     from spotipy.oauth2 import SpotifyClientCredentials
     import spotipy
     client_id = 'd5e7ac18c19f483c9c6fc7c6d848f004'
